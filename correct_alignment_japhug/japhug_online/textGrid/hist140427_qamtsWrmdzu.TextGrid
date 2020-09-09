@@ -1,0 +1,5292 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 123.271837
+tiers? <exists> 
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "TR2-MAU"
+        xmin = 0
+        xmax = 123.271837
+        intervals: size = 282
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.300000
+            text = ""
+        intervals [2]:
+            xmin = 1.300000
+            xmax = 2.100000
+            text = "qamtsɯrmdzu"
+        intervals [3]:
+            xmin = 2.100000
+            xmax = 2.400000
+            text = "kɤ-ti"
+        intervals [4]:
+            xmin = 2.400000
+            xmax = 2.530000
+            text = "ci"
+        intervals [5]:
+            xmin = 2.530000
+            xmax = 2.700000
+            text = "tu"
+        intervals [6]:
+            xmin = 2.700000
+            xmax = 2.960000
+            text = "tɕe,"
+        intervals [7]:
+            xmin = 2.960000
+            xmax = 3.290000
+            text = "nɯnɯ"
+        intervals [8]:
+            xmin = 3.290000
+            xmax = 3.830000
+            text = "tɤ-mdzu"
+        intervals [9]:
+            xmin = 3.830000
+            xmax = 3.970000
+            text = "ŋu"
+        intervals [10]:
+            xmin = 3.970000
+            xmax = 4.310000
+            text = "tɕe,\n"
+        intervals [11]:
+            xmin = 4.310000
+            xmax = 4.860000
+            text = ""
+        intervals [12]:
+            xmin = 4.860000
+            xmax = 5.340000
+            text = "nɯnɯ"
+        intervals [13]:
+            xmin = 5.340000
+            xmax = 5.430000
+            text = ""
+        intervals [14]:
+            xmin = 5.430000
+            xmax = 5.590000
+            text = "si"
+        intervals [15]:
+            xmin = 5.590000
+            xmax = 5.790000
+            text = "nɯ"
+        intervals [16]:
+            xmin = 5.790000
+            xmax = 5.840000
+            text = ""
+        intervals [17]:
+            xmin = 5.840000
+            xmax = 6.180000
+            text = "sɤre"
+        intervals [18]:
+            xmin = 6.180000
+            xmax = 6.320000
+            text = "ma,"
+        intervals [19]:
+            xmin = 6.320000
+            xmax = 6.830000
+            text = "ɯ-mdzu"
+        intervals [20]:
+            xmin = 6.830000
+            xmax = 8.960000
+            text = "ɲɯ-kɯ-ɬoʁ"
+        intervals [21]:
+            xmin = 8.960000
+            xmax = 9.240000
+            text = "nɯ,\n"
+        intervals [22]:
+            xmin = 9.240000
+            xmax = 10.040000
+            text = ""
+        intervals [23]:
+            xmin = 10.040000
+            xmax = 10.430000
+            text = "nɤkinɯ"
+        intervals [24]:
+            xmin = 10.430000
+            xmax = 10.680000
+            text = "jamar,"
+        intervals [25]:
+            xmin = 10.680000
+            xmax = 10.770000
+            text = ""
+        intervals [26]:
+            xmin = 10.770000
+            xmax = 11.360000
+            text = "sanlimi"
+        intervals [27]:
+            xmin = 11.360000
+            xmax = 11.700000
+            text = "jamar"
+        intervals [28]:
+            xmin = 11.700000
+            xmax = 12.050000
+            text = "rɲɟi.\n"
+        intervals [29]:
+            xmin = 12.050000
+            xmax = 12.330000
+            text = ""
+        intervals [30]:
+            xmin = 12.330000
+            xmax = 12.780000
+            text = "tɕe"
+        intervals [31]:
+            xmin = 12.780000
+            xmax = 13.250000
+            text = "nɯnɯ"
+        intervals [32]:
+            xmin = 13.250000
+            xmax = 13.820000
+            text = "ɯ-jwaʁ"
+        intervals [33]:
+            xmin = 13.820000
+            xmax = 14.100000
+            text = "nɯnɯ"
+        intervals [34]:
+            xmin = 14.100000
+            xmax = 14.640000
+            text = "nɯ"
+        intervals [35]:
+            xmin = 14.640000
+            xmax = 14.960000
+            text = "ɯ-mdzu"
+        intervals [36]:
+            xmin = 14.960000
+            xmax = 15.270000
+            text = "ɯ-taʁ"
+        intervals [37]:
+            xmin = 15.270000
+            xmax = 15.400000
+            text = "ri"
+        intervals [38]:
+            xmin = 15.400000
+            xmax = 16.310000
+            text = "chɯ-ɤʑɯrja"
+        intervals [39]:
+            xmin = 16.310000
+            xmax = 16.530000
+            text = ""
+        intervals [40]:
+            xmin = 16.530000
+            xmax = 16.820000
+            text = "ŋu\n"
+        intervals [41]:
+            xmin = 16.820000
+            xmax = 17.680000
+            text = ""
+        intervals [42]:
+            xmin = 17.680000
+            xmax = 18.680000
+            text = "tɕe"
+        intervals [43]:
+            xmin = 18.680000
+            xmax = 18.830000
+            text = "nɯnɯ"
+        intervals [44]:
+            xmin = 18.830000
+            xmax = 19.300000
+            text = "nɤkinɯ,"
+        intervals [45]:
+            xmin = 19.300000
+            xmax = 19.350000
+            text = ""
+        intervals [46]:
+            xmin = 19.350000
+            xmax = 19.610000
+            text = "ɯ-rqhu"
+        intervals [47]:
+            xmin = 19.610000
+            xmax = 19.860000
+            text = "nɯra"
+        intervals [48]:
+            xmin = 19.860000
+            xmax = 20.210000
+            text = "wuma"
+        intervals [49]:
+            xmin = 20.210000
+            xmax = 20.310000
+            text = "ʑo"
+        intervals [50]:
+            xmin = 20.310000
+            xmax = 20.780000
+            text = "ngɯt.\n"
+        intervals [51]:
+            xmin = 20.780000
+            xmax = 21.480000
+            text = ""
+        intervals [52]:
+            xmin = 21.480000
+            xmax = 22.390000
+            text = "tɕeri"
+        intervals [53]:
+            xmin = 22.390000
+            xmax = 22.540000
+            text = "nɯnɯ"
+        intervals [54]:
+            xmin = 22.540000
+            xmax = 22.810000
+            text = ""
+        intervals [55]:
+            xmin = 22.810000
+            xmax = 23.180000
+            text = "ɯ-jwaʁ"
+        intervals [56]:
+            xmin = 23.180000
+            xmax = 23.680000
+            text = "ɯ-sɤɣ-ɬoʁ"
+        intervals [57]:
+            xmin = 23.680000
+            xmax = 23.910000
+            text = "nɯ"
+        intervals [58]:
+            xmin = 23.910000
+            xmax = 24.340000
+            text = "tɤ-mdzu"
+        intervals [59]:
+            xmin = 24.340000
+            xmax = 24.530000
+            text = "nɯ"
+        intervals [60]:
+            xmin = 24.530000
+            xmax = 24.710000
+            text = "ɣɯ"
+        intervals [61]:
+            xmin = 24.710000
+            xmax = 24.970000
+            text = "ɯ-ku"
+        intervals [62]:
+            xmin = 24.970000
+            xmax = 25.030000
+            text = "nɯ"
+        intervals [63]:
+            xmin = 25.030000
+            xmax = 25.150000
+            text = "ʁo"
+        intervals [64]:
+            xmin = 25.150000
+            xmax = 25.580000
+            text = "lɯski"
+        intervals [65]:
+            xmin = 25.580000
+            xmax = 25.790000
+            text = "tɕe"
+        intervals [66]:
+            xmin = 25.790000
+            xmax = 26.340000
+            text = "amtɕoʁ\n"
+        intervals [67]:
+            xmin = 26.340000
+            xmax = 26.910000
+            text = ""
+        intervals [68]:
+            xmin = 26.910000
+            xmax = 27.110000
+            text = "ma"
+        intervals [69]:
+            xmin = 27.110000
+            xmax = 27.730000
+            text = "koŋla"
+        intervals [70]:
+            xmin = 27.730000
+            xmax = 27.860000
+            text = "ʑo"
+        intervals [71]:
+            xmin = 27.860000
+            xmax = 28.180000
+            text = "tɤ-mdzu"
+        intervals [72]:
+            xmin = 28.180000
+            xmax = 28.630000
+            text = "ŋu\n"
+        intervals [73]:
+            xmin = 28.630000
+            xmax = 29.420000
+            text = ""
+        intervals [74]:
+            xmin = 29.420000
+            xmax = 29.670000
+            text = "tɕe"
+        intervals [75]:
+            xmin = 29.670000
+            xmax = 29.890000
+            text = "ɯ-ru"
+        intervals [76]:
+            xmin = 29.890000
+            xmax = 30.200000
+            text = "nɯra"
+        intervals [77]:
+            xmin = 30.200000
+            xmax = 30.680000
+            text = "wumaʑo"
+        intervals [78]:
+            xmin = 30.680000
+            xmax = 31.090000
+            text = "ldʑɯz"
+        intervals [79]:
+            xmin = 31.090000
+            xmax = 31.400000
+            text = "tɕe,\n"
+        intervals [80]:
+            xmin = 31.400000
+            xmax = 31.980000
+            text = ""
+        intervals [81]:
+            xmin = 31.980000
+            xmax = 32.560000
+            text = "ɯʑosti"
+        intervals [82]:
+            xmin = 32.560000
+            xmax = 32.970000
+            text = "tu-ɬoʁ"
+        intervals [83]:
+            xmin = 32.970000
+            xmax = 33.530000
+            text = "mɤ-ŋgrɤl.\n"
+        intervals [84]:
+            xmin = 33.530000
+            xmax = 33.700000
+            text = ""
+        intervals [85]:
+            xmin = 33.700000
+            xmax = 33.920000
+            text = "ɕkrɤz"
+        intervals [86]:
+            xmin = 33.920000
+            xmax = 34.360000
+            text = ""
+        intervals [87]:
+            xmin = 34.360000
+            xmax = 35.010000
+            text = "ɯ-ŋgɯ"
+        intervals [88]:
+            xmin = 35.010000
+            xmax = 35.170000
+            text = "tɕe"
+        intervals [89]:
+            xmin = 35.170000
+            xmax = 35.850000
+            text = "aʁɤndɯndɤt"
+        intervals [90]:
+            xmin = 35.850000
+            xmax = 36.230000
+            text = "tu-ɬoʁ"
+        intervals [91]:
+            xmin = 36.230000
+            xmax = 36.630000
+            text = "ŋgrɤl.\n"
+        intervals [92]:
+            xmin = 36.630000
+            xmax = 37.250000
+            text = ""
+        intervals [93]:
+            xmin = 37.250000
+            xmax = 37.520000
+            text = "tɕe"
+        intervals [94]:
+            xmin = 37.520000
+            xmax = 37.700000
+            text = "nɯ"
+        intervals [95]:
+            xmin = 37.700000
+            xmax = 38.530000
+            text = "qamtsɯrmdzu"
+        intervals [96]:
+            xmin = 38.530000
+            xmax = 38.920000
+            text = "tu-kɯ-ti"
+        intervals [97]:
+            xmin = 38.920000
+            xmax = 38.990000
+            text = "ŋu.\n"
+        intervals [98]:
+            xmin = 38.990000
+            xmax = 39.960000
+            text = "tɕe"
+        intervals [99]:
+            xmin = 39.960000
+            xmax = 40.080000
+            text = "nɯ"
+        intervals [100]:
+            xmin = 40.080000
+            xmax = 40.390000
+            text = "ma"
+        intervals [101]:
+            xmin = 40.390000
+            xmax = 40.730000
+            text = "tɤ-me"
+        intervals [102]:
+            xmin = 40.730000
+            xmax = 40.930000
+            text = "tɕe"
+        intervals [103]:
+            xmin = 40.930000
+            xmax = 41.450000
+            text = "ɲɯ-phɯt-nɯ"
+        intervals [104]:
+            xmin = 41.450000
+            xmax = 41.670000
+            text = "tɕe,"
+        intervals [105]:
+            xmin = 41.670000
+            xmax = 42.070000
+            text = "/tɤ/"
+        intervals [106]:
+            xmin = 42.070000
+            xmax = 42.710000
+            text = "nɤkinɯ,\n"
+        intervals [107]:
+            xmin = 42.710000
+            xmax = 43.180000
+            text = "tɯji"
+        intervals [108]:
+            xmin = 43.180000
+            xmax = 43.350000
+            text = ""
+        intervals [109]:
+            xmin = 43.350000
+            xmax = 43.600000
+            text = "ɯ-rkɯ"
+        intervals [110]:
+            xmin = 43.600000
+            xmax = 43.700000
+            text = "ra"
+        intervals [111]:
+            xmin = 43.700000
+            xmax = 44.070000
+            text = "tɤɣur"
+        intervals [112]:
+            xmin = 44.070000
+            xmax = 44.450000
+            text = "pjɯ-ta-nɯ"
+        intervals [113]:
+            xmin = 44.450000
+            xmax = 44.670000
+            text = "tɕe,\n"
+        intervals [114]:
+            xmin = 44.670000
+            xmax = 45.020000
+            text = ""
+        intervals [115]:
+            xmin = 45.020000
+            xmax = 45.460000
+            text = "fsapaʁ"
+        intervals [116]:
+            xmin = 45.460000
+            xmax = 46.110000
+            text = "ɯ-mɤ-sɤ-xɕe"
+        intervals [117]:
+            xmin = 46.110000
+            xmax = 46.920000
+            text = "tu-βzu-nɯ"
+        intervals [118]:
+            xmin = 46.920000
+            xmax = 47.590000
+            text = ""
+        intervals [119]:
+            xmin = 47.590000
+            xmax = 47.960000
+            text = "ŋgrɤl.\n"
+        intervals [120]:
+            xmin = 47.960000
+            xmax = 48.030000
+            text = "ri"
+        intervals [121]:
+            xmin = 48.030000
+            xmax = 48.770000
+            text = "mɯ-mɤ-pɯ-dɤn"
+        intervals [122]:
+            xmin = 48.770000
+            xmax = 49.030000
+            text = "tsa"
+        intervals [123]:
+            xmin = 49.030000
+            xmax = 49.500000
+            text = "nɤ,\n"
+        intervals [124]:
+            xmin = 49.500000
+            xmax = 49.900000
+            text = ""
+        intervals [125]:
+            xmin = 49.900000
+            xmax = 50.320000
+            text = "fsapaʁ"
+        intervals [126]:
+            xmin = 50.320000
+            xmax = 50.460000
+            text = "ra"
+        intervals [127]:
+            xmin = 50.460000
+            xmax = 50.610000
+            text = "kɯ"
+        intervals [128]:
+            xmin = 50.610000
+            xmax = 51.220000
+            text = "rɤtɕaʁ-nɯ"
+        intervals [129]:
+            xmin = 51.220000
+            xmax = 51.470000
+            text = "ɕti"
+        intervals [130]:
+            xmin = 51.470000
+            xmax = 51.820000
+            text = "ma\n"
+        intervals [131]:
+            xmin = 51.820000
+            xmax = 52.320000
+            text = ""
+        intervals [132]:
+            xmin = 52.320000
+            xmax = 53.030000
+            text = "ɲɯ-jpum"
+        intervals [133]:
+            xmin = 53.030000
+            xmax = 53.170000
+            text = "tɕe"
+        intervals [134]:
+            xmin = 53.170000
+            xmax = 53.650000
+            text = "tu-mbro"
+        intervals [135]:
+            xmin = 53.650000
+            xmax = 54.670000
+            text = "mɤ-cha.\n"
+        intervals [136]:
+            xmin = 54.670000
+            xmax = 55.910000
+            text = ""
+        intervals [137]:
+            xmin = 55.910000
+            xmax = 56.030000
+            text = "tɕe"
+        intervals [138]:
+            xmin = 56.030000
+            xmax = 56.830000
+            text = ""
+        intervals [139]:
+            xmin = 56.830000
+            xmax = 57.060000
+            text = "nɯ"
+        intervals [140]:
+            xmin = 57.060000
+            xmax = 57.120000
+            text = ""
+        intervals [141]:
+            xmin = 57.120000
+            xmax = 57.870000
+            text = "qamtsɯrmdzu"
+        intervals [142]:
+            xmin = 57.870000
+            xmax = 58.080000
+            text = "ŋu.\n"
+        intervals [143]:
+            xmin = 58.080000
+            xmax = 58.400000
+            text = ""
+        intervals [144]:
+            xmin = 58.400000
+            xmax = 58.510000
+            text = "tɕe"
+        intervals [145]:
+            xmin = 58.510000
+            xmax = 59.340000
+            text = ""
+        intervals [146]:
+            xmin = 59.340000
+            xmax = 60.250000
+            text = "qamtsɯrmdzu"
+        intervals [147]:
+            xmin = 60.250000
+            xmax = 60.740000
+            text = "nɯnɯ,"
+        intervals [148]:
+            xmin = 60.740000
+            xmax = 61.210000
+            text = ""
+        intervals [149]:
+            xmin = 61.210000
+            xmax = 61.520000
+            text = "nɤkinɯ,"
+        intervals [150]:
+            xmin = 61.520000
+            xmax = 62.280000
+            text = "ɯ-mdoʁ"
+        intervals [151]:
+            xmin = 62.280000
+            xmax = 62.740000
+            text = "ra,"
+        intervals [152]:
+            xmin = 62.740000
+            xmax = 63.490000
+            text = "ɯ-jwaʁ"
+        intervals [153]:
+            xmin = 63.490000
+            xmax = 63.920000
+            text = "me,"
+        intervals [154]:
+            xmin = 63.920000
+            xmax = 64.190000
+            text = "ɯ-mdzu"
+        intervals [155]:
+            xmin = 64.190000
+            xmax = 64.530000
+            text = "me,"
+        intervals [156]:
+            xmin = 64.530000
+            xmax = 65.070000
+            text = "kɯ-pɣi"
+        intervals [157]:
+            xmin = 65.070000
+            xmax = 65.170000
+            text = "ci"
+        intervals [158]:
+            xmin = 65.170000
+            xmax = 65.460000
+            text = "ŋu.\n"
+        intervals [159]:
+            xmin = 65.460000
+            xmax = 66.060000
+            text = ""
+        intervals [160]:
+            xmin = 66.060000
+            xmax = 66.390000
+            text = "tɕe"
+        intervals [161]:
+            xmin = 66.390000
+            xmax = 66.700000
+            text = "nɯnɯ"
+        intervals [162]:
+            xmin = 66.700000
+            xmax = 67.180000
+            text = "tɤ-ɬoʁ"
+        intervals [163]:
+            xmin = 67.180000
+            xmax = 67.500000
+            text = "tɕe,"
+        intervals [164]:
+            xmin = 67.500000
+            xmax = 68.270000
+            text = "nɤkinɯ,"
+        intervals [165]:
+            xmin = 68.270000
+            xmax = 68.650000
+            text = "ɯ-mat"
+        intervals [166]:
+            xmin = 68.650000
+            xmax = 68.970000
+            text = "nɯnɯ"
+        intervals [167]:
+            xmin = 68.970000
+            xmax = 69.690000
+            text = "staχpɯcɤβ"
+        intervals [168]:
+            xmin = 69.690000
+            xmax = 70.020000
+            text = "kɯ-fse"
+        intervals [169]:
+            xmin = 70.020000
+            xmax = 70.510000
+            text = "chɯ-βze"
+        intervals [170]:
+            xmin = 70.510000
+            xmax = 70.760000
+            text = "ŋu.\n"
+        intervals [171]:
+            xmin = 70.760000
+            xmax = 71.520000
+            text = ""
+        intervals [172]:
+            xmin = 71.520000
+            xmax = 71.660000
+            text = "tɕe"
+        intervals [173]:
+            xmin = 71.660000
+            xmax = 72.120000
+            text = "staχpɯcɤβ,"
+        intervals [174]:
+            xmin = 72.120000
+            xmax = 72.540000
+            text = "iɕqha"
+        intervals [175]:
+            xmin = 72.540000
+            xmax = 72.970000
+            text = "wuŋgru"
+        intervals [176]:
+            xmin = 72.970000
+            xmax = 73.060000
+            text = "ɣɯ"
+        intervals [177]:
+            xmin = 73.060000
+            xmax = 73.610000
+            text = "ɯ-mat"
+        intervals [178]:
+            xmin = 73.610000
+            xmax = 74.290000
+            text = "kɯ-fsɯ-fse"
+        intervals [179]:
+            xmin = 74.290000
+            xmax = 74.600000
+            text = "ʑo"
+        intervals [180]:
+            xmin = 74.600000
+            xmax = 74.840000
+            text = ""
+        intervals [181]:
+            xmin = 74.840000
+            xmax = 75.100000
+            text = "ŋu.\n"
+        intervals [182]:
+            xmin = 75.100000
+            xmax = 75.450000
+            text = ""
+        intervals [183]:
+            xmin = 75.450000
+            xmax = 75.670000
+            text = "tɕe"
+        intervals [184]:
+            xmin = 75.670000
+            xmax = 75.940000
+            text = "nɯnɯ"
+        intervals [185]:
+            xmin = 75.940000
+            xmax = 76.310000
+            text = "kɯ-fse"
+        intervals [186]:
+            xmin = 76.310000
+            xmax = 76.690000
+            text = "chɯ-βze"
+        intervals [187]:
+            xmin = 76.690000
+            xmax = 76.790000
+            text = "ŋu"
+        intervals [188]:
+            xmin = 76.790000
+            xmax = 77.070000
+            text = "tɕe\n"
+        intervals [189]:
+            xmin = 77.070000
+            xmax = 77.260000
+            text = ""
+        intervals [190]:
+            xmin = 77.260000
+            xmax = 77.850000
+            text = "tɕe"
+        intervals [191]:
+            xmin = 77.850000
+            xmax = 78.280000
+            text = "ɯ-mdzu"
+        intervals [192]:
+            xmin = 78.280000
+            xmax = 78.500000
+            text = "nɯ"
+        intervals [193]:
+            xmin = 78.500000
+            xmax = 78.810000
+            text = "ɯ-taʁ"
+        intervals [194]:
+            xmin = 78.810000
+            xmax = 78.880000
+            text = "ri,"
+        intervals [195]:
+            xmin = 78.880000
+            xmax = 79.840000
+            text = "ɯ-jwaʁ"
+        intervals [196]:
+            xmin = 79.840000
+            xmax = 79.910000
+            text = "nɯ"
+        intervals [197]:
+            xmin = 79.910000
+            xmax = 80.480000
+            text = "kɯ-ɤrtɯm"
+        intervals [198]:
+            xmin = 80.480000
+            xmax = 80.660000
+            text = "tsa"
+        intervals [199]:
+            xmin = 80.660000
+            xmax = 81.370000
+            text = "lu-nɯgrɤl"
+        intervals [200]:
+            xmin = 81.370000
+            xmax = 81.580000
+            text = "ŋu.\n"
+        intervals [201]:
+            xmin = 81.580000
+            xmax = 82.290000
+            text = ""
+        intervals [202]:
+            xmin = 82.290000
+            xmax = 82.710000
+            text = "staχpɯ"
+        intervals [203]:
+            xmin = 82.710000
+            xmax = 83.230000
+            text = "rɟɤskhi"
+        intervals [204]:
+            xmin = 83.230000
+            xmax = 83.330000
+            text = "ɣɯ"
+        intervals [205]:
+            xmin = 83.330000
+            xmax = 83.810000
+            text = "ɯ-jwaʁ"
+        intervals [206]:
+            xmin = 83.810000
+            xmax = 84.100000
+            text = "wuma"
+        intervals [207]:
+            xmin = 84.100000
+            xmax = 84.290000
+            text = "ʑo"
+        intervals [208]:
+            xmin = 84.290000
+            xmax = 84.340000
+            text = ""
+        intervals [209]:
+            xmin = 84.340000
+            xmax = 84.560000
+            text = "fse.\n"
+        intervals [210]:
+            xmin = 84.560000
+            xmax = 85.430000
+            text = ""
+        intervals [211]:
+            xmin = 85.430000
+            xmax = 85.700000
+            text = "ma"
+        intervals [212]:
+            xmin = 85.700000
+            xmax = 86.450000
+            text = "nɯnɯ"
+        intervals [213]:
+            xmin = 86.450000
+            xmax = 87.000000
+            text = "tɕe,"
+        intervals [214]:
+            xmin = 87.000000
+            xmax = 87.410000
+            text = "ɯ-mdzu"
+        intervals [215]:
+            xmin = 87.410000
+            xmax = 87.940000
+            text = "nɯnɯ"
+        intervals [216]:
+            xmin = 87.940000
+            xmax = 88.160000
+            text = "ɯ-ku"
+        intervals [217]:
+            xmin = 88.160000
+            xmax = 88.340000
+            text = "nɯ"
+        intervals [218]:
+            xmin = 88.340000
+            xmax = 89.290000
+            text = "tɤ-mdzu"
+        intervals [219]:
+            xmin = 89.290000
+            xmax = 89.840000
+            text = ""
+        intervals [220]:
+            xmin = 89.840000
+            xmax = 90.290000
+            text = "ŋu,\n"
+        intervals [221]:
+            xmin = 90.290000
+            xmax = 90.860000
+            text = "ɯ-ru"
+        intervals [222]:
+            xmin = 90.860000
+            xmax = 91.650000
+            text = "nɯnɯra,"
+        intervals [223]:
+            xmin = 91.650000
+            xmax = 92.180000
+            text = "ɯ-jwaʁ"
+        intervals [224]:
+            xmin = 92.180000
+            xmax = 92.800000
+            text = "ɯ-sɤɣ-ndzoʁ"
+        intervals [225]:
+            xmin = 92.800000
+            xmax = 93.020000
+            text = "ŋu.\n"
+        intervals [226]:
+            xmin = 93.020000
+            xmax = 93.920000
+            text = ""
+        intervals [227]:
+            xmin = 93.920000
+            xmax = 94.110000
+            text = "tɕe"
+        intervals [228]:
+            xmin = 94.110000
+            xmax = 94.400000
+            text = "nɯnɯ"
+        intervals [229]:
+            xmin = 94.400000
+            xmax = 94.470000
+            text = ""
+        intervals [230]:
+            xmin = 94.470000
+            xmax = 95.240000
+            text = "qamtsɯrmdzu"
+        intervals [231]:
+            xmin = 95.240000
+            xmax = 95.600000
+            text = "rmi.\n"
+        intervals [232]:
+            xmin = 95.600000
+            xmax = 96.140000
+            text = ""
+        intervals [233]:
+            xmin = 96.140000
+            xmax = 96.320000
+            text = "tɕe"
+        intervals [234]:
+            xmin = 96.320000
+            xmax = 96.460000
+            text = "nɯ"
+        intervals [235]:
+            xmin = 96.460000
+            xmax = 96.710000
+            text = "ɣɯ"
+        intervals [236]:
+            xmin = 96.710000
+            xmax = 96.960000
+            text = "ɯ-rqhu"
+        intervals [237]:
+            xmin = 96.960000
+            xmax = 97.200000
+            text = "nɯ"
+        intervals [238]:
+            xmin = 97.200000
+            xmax = 97.700000
+            text = "chɯ́-wɣ-qaʁ"
+        intervals [239]:
+            xmin = 97.700000
+            xmax = 97.970000
+            text = "tɕe,\n"
+        intervals [240]:
+            xmin = 97.970000
+            xmax = 98.280000
+            text = ""
+        intervals [241]:
+            xmin = 98.280000
+            xmax = 98.670000
+            text = "tasa"
+        intervals [242]:
+            xmin = 98.670000
+            xmax = 99.330000
+            text = "thɯ-kɤ-qaʁ"
+        intervals [243]:
+            xmin = 99.330000
+            xmax = 99.494989
+            text = "ʑo"
+        intervals [244]:
+            xmin = 99.494989
+            xmax = 99.670000
+            text = "fse"
+        intervals [245]:
+            xmin = 99.670000
+            xmax = 99.850000
+            text = "tɕe,"
+        intervals [246]:
+            xmin = 99.850000
+            xmax = 100.220000
+            text = "ɯ-rqhu"
+        intervals [247]:
+            xmin = 100.220000
+            xmax = 100.390000
+            text = "nɯ"
+        intervals [248]:
+            xmin = 100.390000
+            xmax = 100.900000
+            text = "ngɯt.\n"
+        intervals [249]:
+            xmin = 100.900000
+            xmax = 101.740000
+            text = ""
+        intervals [250]:
+            xmin = 101.740000
+            xmax = 102.280000
+            text = "tɕe"
+        intervals [251]:
+            xmin = 102.280000
+            xmax = 102.690000
+            text = "tshitsuku"
+        intervals [252]:
+            xmin = 102.690000
+            xmax = 103.350000
+            text = "ɯ-sɤ-xtɕɤr"
+        intervals [253]:
+            xmin = 103.350000
+            xmax = 103.440000
+            text = "ra"
+        intervals [254]:
+            xmin = 103.440000
+            xmax = 104.080000
+            text = "tu-sɯpa-nɯ"
+        intervals [255]:
+            xmin = 104.080000
+            xmax = 104.440000
+            text = "ŋgrɤl.\n"
+        intervals [256]:
+            xmin = 104.440000
+            xmax = 105.170000
+            text = ""
+        intervals [257]:
+            xmin = 105.170000
+            xmax = 105.660000
+            text = "tɕe"
+        intervals [258]:
+            xmin = 105.660000
+            xmax = 105.960000
+            text = "nɯnɯ"
+        intervals [259]:
+            xmin = 105.960000
+            xmax = 107.010000
+            text = "qamtsɯrmdzu"
+        intervals [260]:
+            xmin = 107.010000
+            xmax = 107.570000
+            text = ""
+        intervals [261]:
+            xmin = 107.570000
+            xmax = 107.660000
+            text = "ŋu.\n"
+        intervals [262]:
+            xmin = 107.660000
+            xmax = 109.710000
+            text = ""
+        intervals [263]:
+            xmin = 109.710000
+            xmax = 110.760000
+            text = "tshɤmdzu"
+        intervals [264]:
+            xmin = 110.760000
+            xmax = 111.890000
+            text = ""
+        intervals [265]:
+            xmin = 111.890000
+            xmax = 113.030000
+            text = "ɯ-pɯ-fɕat-a?\n"
+        intervals [266]:
+            xmin = 113.030000
+            xmax = 113.860000
+            text = ""
+        intervals [267]:
+            xmin = 113.860000
+            xmax = 114.450000
+            text = "pɯ-fɕat-a"
+        intervals [268]:
+            xmin = 114.450000
+            xmax = 114.590000
+            text = "low,"
+        intervals [269]:
+            xmin = 114.590000
+            xmax = 114.960000
+            text = ""
+        intervals [270]:
+            xmin = 114.960000
+            xmax = 115.510000
+            text = "ɯ-qa"
+        intervals [271]:
+            xmin = 115.510000
+            xmax = 115.630000
+            text = "nɯ"
+        intervals [272]:
+            xmin = 115.630000
+            xmax = 116.690000
+            text = "kɯ-qarŋe"
+        intervals [273]:
+            xmin = 116.690000
+            xmax = 117.180000
+            text = ""
+        intervals [274]:
+            xmin = 117.180000
+            xmax = 117.300000
+            text = "ŋu"
+        intervals [275]:
+            xmin = 117.300000
+            xmax = 117.720000
+            text = "tɕe,\n"
+        intervals [276]:
+            xmin = 117.720000
+            xmax = 117.840000
+            text = ""
+        intervals [277]:
+            xmin = 117.840000
+            xmax = 118.360000
+            text = "tshwi"
+        intervals [278]:
+            xmin = 118.360000
+            xmax = 119.450000
+            text = ""
+        intervals [279]:
+            xmin = 119.450000
+            xmax = 120.440000
+            text = "pjɯ́-wɣ-lɤt"
+        intervals [280]:
+            xmin = 120.440000
+            xmax = 121.340000
+            text = ""
+        intervals [281]:
+            xmin = 121.340000
+            xmax = 121.430000
+            text = "sna.\n"
+        intervals [282]:
+            xmin = 121.430000
+            xmax = 123.271837
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 123.271837
+        intervals: size = 1036
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.300000
+            text = "(...)"
+        intervals [2]:
+            xmin = 1.300000
+            xmax = 1.350000
+            text = "q"
+        intervals [3]:
+            xmin = 1.350000
+            xmax = 1.510000
+            text = "a"
+        intervals [4]:
+            xmin = 1.510000
+            xmax = 1.540000
+            text = "m"
+        intervals [5]:
+            xmin = 1.540000
+            xmax = 1.680000
+            text = "t"
+        intervals [6]:
+            xmin = 1.680000
+            xmax = 1.710000
+            text = "s"
+        intervals [7]:
+            xmin = 1.710000
+            xmax = 1.780000
+            text = "ɯ"
+        intervals [8]:
+            xmin = 1.780000
+            xmax = 1.830000
+            text = "r"
+        intervals [9]:
+            xmin = 1.830000
+            xmax = 1.860000
+            text = "m"
+        intervals [10]:
+            xmin = 1.860000
+            xmax = 1.890000
+            text = "d"
+        intervals [11]:
+            xmin = 1.890000
+            xmax = 1.990000
+            text = "z"
+        intervals [12]:
+            xmin = 1.990000
+            xmax = 2.100000
+            text = "u"
+        intervals [13]:
+            xmin = 2.100000
+            xmax = 2.140000
+            text = "k"
+        intervals [14]:
+            xmin = 2.140000
+            xmax = 2.290000
+            text = "ɤ"
+        intervals [15]:
+            xmin = 2.290000
+            xmax = 2.320000
+            text = "t"
+        intervals [16]:
+            xmin = 2.320000
+            xmax = 2.400000
+            text = "i"
+        intervals [17]:
+            xmin = 2.400000
+            xmax = 2.460000
+            text = "c"
+        intervals [18]:
+            xmin = 2.460000
+            xmax = 2.530000
+            text = "i"
+        intervals [19]:
+            xmin = 2.530000
+            xmax = 2.650000
+            text = "t"
+        intervals [20]:
+            xmin = 2.650000
+            xmax = 2.700000
+            text = "u"
+        intervals [21]:
+            xmin = 2.700000
+            xmax = 2.750000
+            text = "t"
+        intervals [22]:
+            xmin = 2.750000
+            xmax = 2.830000
+            text = "ɕ"
+        intervals [23]:
+            xmin = 2.830000
+            xmax = 2.960000
+            text = "e"
+        intervals [24]:
+            xmin = 2.960000
+            xmax = 3.050000
+            text = "n"
+        intervals [25]:
+            xmin = 3.050000
+            xmax = 3.120000
+            text = "ɯ"
+        intervals [26]:
+            xmin = 3.120000
+            xmax = 3.210000
+            text = "n"
+        intervals [27]:
+            xmin = 3.210000
+            xmax = 3.290000
+            text = "ɯ"
+        intervals [28]:
+            xmin = 3.290000
+            xmax = 3.420000
+            text = "t"
+        intervals [29]:
+            xmin = 3.420000
+            xmax = 3.490000
+            text = "ɤ"
+        intervals [30]:
+            xmin = 3.490000
+            xmax = 3.640000
+            text = "m"
+        intervals [31]:
+            xmin = 3.640000
+            xmax = 3.670000
+            text = "d"
+        intervals [32]:
+            xmin = 3.670000
+            xmax = 3.730000
+            text = "z"
+        intervals [33]:
+            xmin = 3.730000
+            xmax = 3.830000
+            text = "u"
+        intervals [34]:
+            xmin = 3.830000
+            xmax = 3.890000
+            text = "ŋ"
+        intervals [35]:
+            xmin = 3.890000
+            xmax = 3.970000
+            text = "u"
+        intervals [36]:
+            xmin = 3.970000
+            xmax = 4.020000
+            text = "t"
+        intervals [37]:
+            xmin = 4.020000
+            xmax = 4.100000
+            text = "ɕ"
+        intervals [38]:
+            xmin = 4.100000
+            xmax = 4.310000
+            text = "e"
+        intervals [39]:
+            xmin = 4.310000
+            xmax = 4.860000
+            text = "(...)"
+        intervals [40]:
+            xmin = 4.860000
+            xmax = 4.930000
+            text = "n"
+        intervals [41]:
+            xmin = 4.930000
+            xmax = 5.000000
+            text = "ɯ"
+        intervals [42]:
+            xmin = 5.000000
+            xmax = 5.090000
+            text = "n"
+        intervals [43]:
+            xmin = 5.090000
+            xmax = 5.340000
+            text = "ɯ"
+        intervals [44]:
+            xmin = 5.340000
+            xmax = 5.430000
+            text = "(...)"
+        intervals [45]:
+            xmin = 5.430000
+            xmax = 5.460000
+            text = "s"
+        intervals [46]:
+            xmin = 5.460000
+            xmax = 5.590000
+            text = "i"
+        intervals [47]:
+            xmin = 5.590000
+            xmax = 5.700000
+            text = "n"
+        intervals [48]:
+            xmin = 5.700000
+            xmax = 5.790000
+            text = "ɯ"
+        intervals [49]:
+            xmin = 5.790000
+            xmax = 5.840000
+            text = "(...)"
+        intervals [50]:
+            xmin = 5.840000
+            xmax = 5.880000
+            text = "s"
+        intervals [51]:
+            xmin = 5.880000
+            xmax = 5.990000
+            text = "ɤ"
+        intervals [52]:
+            xmin = 5.990000
+            xmax = 6.030000
+            text = "r"
+        intervals [53]:
+            xmin = 6.030000
+            xmax = 6.180000
+            text = "e"
+        intervals [54]:
+            xmin = 6.180000
+            xmax = 6.280000
+            text = "m"
+        intervals [55]:
+            xmin = 6.280000
+            xmax = 6.320000
+            text = "a"
+        intervals [56]:
+            xmin = 6.320000
+            xmax = 6.470000
+            text = "ɯ"
+        intervals [57]:
+            xmin = 6.470000
+            xmax = 6.590000
+            text = "m"
+        intervals [58]:
+            xmin = 6.590000
+            xmax = 6.620000
+            text = "d"
+        intervals [59]:
+            xmin = 6.620000
+            xmax = 6.740000
+            text = "z"
+        intervals [60]:
+            xmin = 6.740000
+            xmax = 6.830000
+            text = "u"
+        intervals [61]:
+            xmin = 6.830000
+            xmax = 6.910000
+            text = "ɲ"
+        intervals [62]:
+            xmin = 6.910000
+            xmax = 7.660000
+            text = "ɯ"
+        intervals [63]:
+            xmin = 7.660000
+            xmax = 8.230000
+            text = "k"
+        intervals [64]:
+            xmin = 8.230000
+            xmax = 8.410000
+            text = "ɯ"
+        intervals [65]:
+            xmin = 8.410000
+            xmax = 8.440000
+            text = "ɬ"
+        intervals [66]:
+            xmin = 8.440000
+            xmax = 8.930000
+            text = "o"
+        intervals [67]:
+            xmin = 8.930000
+            xmax = 8.960000
+            text = "ʀ"
+        intervals [68]:
+            xmin = 8.960000
+            xmax = 8.990000
+            text = "n"
+        intervals [69]:
+            xmin = 8.990000
+            xmax = 9.240000
+            text = "ɯ"
+        intervals [70]:
+            xmin = 9.240000
+            xmax = 10.040000
+            text = "(...)"
+        intervals [71]:
+            xmin = 10.040000
+            xmax = 10.080000
+            text = "n"
+        intervals [72]:
+            xmin = 10.080000
+            xmax = 10.160000
+            text = "ɤ"
+        intervals [73]:
+            xmin = 10.160000
+            xmax = 10.220000
+            text = "k"
+        intervals [74]:
+            xmin = 10.220000
+            xmax = 10.310000
+            text = "i"
+        intervals [75]:
+            xmin = 10.310000
+            xmax = 10.380000
+            text = "n"
+        intervals [76]:
+            xmin = 10.380000
+            xmax = 10.430000
+            text = "ɯ"
+        intervals [77]:
+            xmin = 10.430000
+            xmax = 10.460000
+            text = "j"
+        intervals [78]:
+            xmin = 10.460000
+            xmax = 10.490000
+            text = "a"
+        intervals [79]:
+            xmin = 10.490000
+            xmax = 10.520000
+            text = "m"
+        intervals [80]:
+            xmin = 10.520000
+            xmax = 10.640000
+            text = "a"
+        intervals [81]:
+            xmin = 10.640000
+            xmax = 10.680000
+            text = "r"
+        intervals [82]:
+            xmin = 10.680000
+            xmax = 10.770000
+            text = "(...)"
+        intervals [83]:
+            xmin = 10.770000
+            xmax = 10.810000
+            text = "s"
+        intervals [84]:
+            xmin = 10.810000
+            xmax = 10.960000
+            text = "a"
+        intervals [85]:
+            xmin = 10.960000
+            xmax = 10.990000
+            text = "n"
+        intervals [86]:
+            xmin = 10.990000
+            xmax = 11.040000
+            text = "l"
+        intervals [87]:
+            xmin = 11.040000
+            xmax = 11.160000
+            text = "i"
+        intervals [88]:
+            xmin = 11.160000
+            xmax = 11.260000
+            text = "m"
+        intervals [89]:
+            xmin = 11.260000
+            xmax = 11.360000
+            text = "i"
+        intervals [90]:
+            xmin = 11.360000
+            xmax = 11.430000
+            text = "j"
+        intervals [91]:
+            xmin = 11.430000
+            xmax = 11.490000
+            text = "a"
+        intervals [92]:
+            xmin = 11.490000
+            xmax = 11.580000
+            text = "m"
+        intervals [93]:
+            xmin = 11.580000
+            xmax = 11.630000
+            text = "a"
+        intervals [94]:
+            xmin = 11.630000
+            xmax = 11.700000
+            text = "r"
+        intervals [95]:
+            xmin = 11.700000
+            xmax = 11.790000
+            text = "r"
+        intervals [96]:
+            xmin = 11.790000
+            xmax = 11.850000
+            text = "ɲ"
+        intervals [97]:
+            xmin = 11.850000
+            xmax = 11.910000
+            text = "ɟ"
+        intervals [98]:
+            xmin = 11.910000
+            xmax = 12.050000
+            text = "i"
+        intervals [99]:
+            xmin = 12.050000
+            xmax = 12.330000
+            text = "(...)"
+        intervals [100]:
+            xmin = 12.330000
+            xmax = 12.590000
+            text = "t"
+        intervals [101]:
+            xmin = 12.590000
+            xmax = 12.690000
+            text = "ɕ"
+        intervals [102]:
+            xmin = 12.690000
+            xmax = 12.780000
+            text = "e"
+        intervals [103]:
+            xmin = 12.780000
+            xmax = 12.870000
+            text = "n"
+        intervals [104]:
+            xmin = 12.870000
+            xmax = 12.950000
+            text = "ɯ"
+        intervals [105]:
+            xmin = 12.950000
+            xmax = 13.030000
+            text = "n"
+        intervals [106]:
+            xmin = 13.030000
+            xmax = 13.250000
+            text = "ɯ"
+        intervals [107]:
+            xmin = 13.250000
+            xmax = 13.280000
+            text = "ɯ"
+        intervals [108]:
+            xmin = 13.280000
+            xmax = 13.430000
+            text = "j"
+        intervals [109]:
+            xmin = 13.430000
+            xmax = 13.600000
+            text = "w"
+        intervals [110]:
+            xmin = 13.600000
+            xmax = 13.790000
+            text = "a"
+        intervals [111]:
+            xmin = 13.790000
+            xmax = 13.820000
+            text = "ʀ"
+        intervals [112]:
+            xmin = 13.820000
+            xmax = 13.850000
+            text = "n"
+        intervals [113]:
+            xmin = 13.850000
+            xmax = 13.910000
+            text = "ɯ"
+        intervals [114]:
+            xmin = 13.910000
+            xmax = 14.000000
+            text = "n"
+        intervals [115]:
+            xmin = 14.000000
+            xmax = 14.100000
+            text = "ɯ"
+        intervals [116]:
+            xmin = 14.100000
+            xmax = 14.200000
+            text = "n"
+        intervals [117]:
+            xmin = 14.200000
+            xmax = 14.640000
+            text = "ɯ"
+        intervals [118]:
+            xmin = 14.640000
+            xmax = 14.670000
+            text = "ɯ"
+        intervals [119]:
+            xmin = 14.670000
+            xmax = 14.800000
+            text = "m"
+        intervals [120]:
+            xmin = 14.800000
+            xmax = 14.830000
+            text = "d"
+        intervals [121]:
+            xmin = 14.830000
+            xmax = 14.920000
+            text = "z"
+        intervals [122]:
+            xmin = 14.920000
+            xmax = 14.960000
+            text = "u"
+        intervals [123]:
+            xmin = 14.960000
+            xmax = 15.040000
+            text = "ɯ"
+        intervals [124]:
+            xmin = 15.040000
+            xmax = 15.110000
+            text = "t"
+        intervals [125]:
+            xmin = 15.110000
+            xmax = 15.240000
+            text = "a"
+        intervals [126]:
+            xmin = 15.240000
+            xmax = 15.270000
+            text = "ʀ"
+        intervals [127]:
+            xmin = 15.270000
+            xmax = 15.310000
+            text = "r"
+        intervals [128]:
+            xmin = 15.310000
+            xmax = 15.400000
+            text = "i"
+        intervals [129]:
+            xmin = 15.400000
+            xmax = 15.550000
+            text = "c"
+        intervals [130]:
+            xmin = 15.550000
+            xmax = 15.700000
+            text = "h"
+        intervals [131]:
+            xmin = 15.700000
+            xmax = 15.730000
+            text = "ɯ"
+        intervals [132]:
+            xmin = 15.730000
+            xmax = 15.770000
+            text = "ɤ"
+        intervals [133]:
+            xmin = 15.770000
+            xmax = 15.810000
+            text = "ʑ"
+        intervals [134]:
+            xmin = 15.810000
+            xmax = 16.070000
+            text = "ɯ"
+        intervals [135]:
+            xmin = 16.070000
+            xmax = 16.140000
+            text = "r"
+        intervals [136]:
+            xmin = 16.140000
+            xmax = 16.250000
+            text = "j"
+        intervals [137]:
+            xmin = 16.250000
+            xmax = 16.310000
+            text = "a"
+        intervals [138]:
+            xmin = 16.310000
+            xmax = 16.530000
+            text = "(...)"
+        intervals [139]:
+            xmin = 16.530000
+            xmax = 16.780000
+            text = "ŋ"
+        intervals [140]:
+            xmin = 16.780000
+            xmax = 16.820000
+            text = "u"
+        intervals [141]:
+            xmin = 16.820000
+            xmax = 17.680000
+            text = "(...)"
+        intervals [142]:
+            xmin = 17.680000
+            xmax = 17.710000
+            text = "t"
+        intervals [143]:
+            xmin = 17.710000
+            xmax = 17.790000
+            text = "ɕ"
+        intervals [144]:
+            xmin = 17.790000
+            xmax = 18.680000
+            text = "e"
+        intervals [145]:
+            xmin = 18.680000
+            xmax = 18.710000
+            text = "n"
+        intervals [146]:
+            xmin = 18.710000
+            xmax = 18.740000
+            text = "ɯ"
+        intervals [147]:
+            xmin = 18.740000
+            xmax = 18.770000
+            text = "n"
+        intervals [148]:
+            xmin = 18.770000
+            xmax = 18.830000
+            text = "ɯ"
+        intervals [149]:
+            xmin = 18.830000
+            xmax = 18.880000
+            text = "n"
+        intervals [150]:
+            xmin = 18.880000
+            xmax = 18.930000
+            text = "ɤ"
+        intervals [151]:
+            xmin = 18.930000
+            xmax = 18.970000
+            text = "k"
+        intervals [152]:
+            xmin = 18.970000
+            xmax = 19.030000
+            text = "i"
+        intervals [153]:
+            xmin = 19.030000
+            xmax = 19.130000
+            text = "n"
+        intervals [154]:
+            xmin = 19.130000
+            xmax = 19.300000
+            text = "ɯ"
+        intervals [155]:
+            xmin = 19.300000
+            xmax = 19.350000
+            text = "(...)"
+        intervals [156]:
+            xmin = 19.350000
+            xmax = 19.390000
+            text = "ɯ"
+        intervals [157]:
+            xmin = 19.390000
+            xmax = 19.420000
+            text = "r"
+        intervals [158]:
+            xmin = 19.420000
+            xmax = 19.460000
+            text = "q"
+        intervals [159]:
+            xmin = 19.460000
+            xmax = 19.550000
+            text = "h"
+        intervals [160]:
+            xmin = 19.550000
+            xmax = 19.610000
+            text = "u"
+        intervals [161]:
+            xmin = 19.610000
+            xmax = 19.680000
+            text = "n"
+        intervals [162]:
+            xmin = 19.680000
+            xmax = 19.730000
+            text = "ɯ"
+        intervals [163]:
+            xmin = 19.730000
+            xmax = 19.810000
+            text = "r"
+        intervals [164]:
+            xmin = 19.810000
+            xmax = 19.860000
+            text = "a"
+        intervals [165]:
+            xmin = 19.860000
+            xmax = 19.890000
+            text = "w"
+        intervals [166]:
+            xmin = 19.890000
+            xmax = 19.930000
+            text = "u"
+        intervals [167]:
+            xmin = 19.930000
+            xmax = 20.060000
+            text = "m"
+        intervals [168]:
+            xmin = 20.060000
+            xmax = 20.210000
+            text = "a"
+        intervals [169]:
+            xmin = 20.210000
+            xmax = 20.250000
+            text = "ʑ"
+        intervals [170]:
+            xmin = 20.250000
+            xmax = 20.310000
+            text = "o"
+        intervals [171]:
+            xmin = 20.310000
+            xmax = 20.390000
+            text = "n"
+        intervals [172]:
+            xmin = 20.390000
+            xmax = 20.570000
+            text = "ɡ"
+        intervals [173]:
+            xmin = 20.570000
+            xmax = 20.620000
+            text = "ɯ"
+        intervals [174]:
+            xmin = 20.620000
+            xmax = 20.780000
+            text = "t"
+        intervals [175]:
+            xmin = 20.780000
+            xmax = 21.480000
+            text = "(...)"
+        intervals [176]:
+            xmin = 21.480000
+            xmax = 21.510000
+            text = "t"
+        intervals [177]:
+            xmin = 21.510000
+            xmax = 21.590000
+            text = "ɕ"
+        intervals [178]:
+            xmin = 21.590000
+            xmax = 21.850000
+            text = "e"
+        intervals [179]:
+            xmin = 21.850000
+            xmax = 22.350000
+            text = "r"
+        intervals [180]:
+            xmin = 22.350000
+            xmax = 22.390000
+            text = "i"
+        intervals [181]:
+            xmin = 22.390000
+            xmax = 22.440000
+            text = "n"
+        intervals [182]:
+            xmin = 22.440000
+            xmax = 22.470000
+            text = "ɯ"
+        intervals [183]:
+            xmin = 22.470000
+            xmax = 22.510000
+            text = "n"
+        intervals [184]:
+            xmin = 22.510000
+            xmax = 22.540000
+            text = "ɯ"
+        intervals [185]:
+            xmin = 22.540000
+            xmax = 22.810000
+            text = "(...)"
+        intervals [186]:
+            xmin = 22.810000
+            xmax = 22.850000
+            text = "ɯ"
+        intervals [187]:
+            xmin = 22.850000
+            xmax = 22.980000
+            text = "j"
+        intervals [188]:
+            xmin = 22.980000
+            xmax = 23.070000
+            text = "w"
+        intervals [189]:
+            xmin = 23.070000
+            xmax = 23.150000
+            text = "a"
+        intervals [190]:
+            xmin = 23.150000
+            xmax = 23.180000
+            text = "ʀ"
+        intervals [191]:
+            xmin = 23.180000
+            xmax = 23.260000
+            text = "ɯ"
+        intervals [192]:
+            xmin = 23.260000
+            xmax = 23.350000
+            text = "s"
+        intervals [193]:
+            xmin = 23.350000
+            xmax = 23.400000
+            text = "ɤ"
+        intervals [194]:
+            xmin = 23.400000
+            xmax = 23.430000
+            text = "ɣ"
+        intervals [195]:
+            xmin = 23.430000
+            xmax = 23.460000
+            text = "ɬ"
+        intervals [196]:
+            xmin = 23.460000
+            xmax = 23.640000
+            text = "o"
+        intervals [197]:
+            xmin = 23.640000
+            xmax = 23.680000
+            text = "ʀ"
+        intervals [198]:
+            xmin = 23.680000
+            xmax = 23.770000
+            text = "n"
+        intervals [199]:
+            xmin = 23.770000
+            xmax = 23.910000
+            text = "ɯ"
+        intervals [200]:
+            xmin = 23.910000
+            xmax = 23.980000
+            text = "t"
+        intervals [201]:
+            xmin = 23.980000
+            xmax = 24.070000
+            text = "ɤ"
+        intervals [202]:
+            xmin = 24.070000
+            xmax = 24.180000
+            text = "m"
+        intervals [203]:
+            xmin = 24.180000
+            xmax = 24.210000
+            text = "d"
+        intervals [204]:
+            xmin = 24.210000
+            xmax = 24.290000
+            text = "z"
+        intervals [205]:
+            xmin = 24.290000
+            xmax = 24.340000
+            text = "u"
+        intervals [206]:
+            xmin = 24.340000
+            xmax = 24.430000
+            text = "n"
+        intervals [207]:
+            xmin = 24.430000
+            xmax = 24.530000
+            text = "ɯ"
+        intervals [208]:
+            xmin = 24.530000
+            xmax = 24.560000
+            text = "ɣ"
+        intervals [209]:
+            xmin = 24.560000
+            xmax = 24.710000
+            text = "ɯ"
+        intervals [210]:
+            xmin = 24.710000
+            xmax = 24.740000
+            text = "ɯ"
+        intervals [211]:
+            xmin = 24.740000
+            xmax = 24.870000
+            text = "k"
+        intervals [212]:
+            xmin = 24.870000
+            xmax = 24.970000
+            text = "u"
+        intervals [213]:
+            xmin = 24.970000
+            xmax = 25.000000
+            text = "n"
+        intervals [214]:
+            xmin = 25.000000
+            xmax = 25.030000
+            text = "ɯ"
+        intervals [215]:
+            xmin = 25.030000
+            xmax = 25.060000
+            text = "ʀ"
+        intervals [216]:
+            xmin = 25.060000
+            xmax = 25.150000
+            text = "o"
+        intervals [217]:
+            xmin = 25.150000
+            xmax = 25.180000
+            text = "l"
+        intervals [218]:
+            xmin = 25.180000
+            xmax = 25.380000
+            text = "ɯ"
+        intervals [219]:
+            xmin = 25.380000
+            xmax = 25.430000
+            text = "s"
+        intervals [220]:
+            xmin = 25.430000
+            xmax = 25.490000
+            text = "k"
+        intervals [221]:
+            xmin = 25.490000
+            xmax = 25.580000
+            text = "i"
+        intervals [222]:
+            xmin = 25.580000
+            xmax = 25.610000
+            text = "t"
+        intervals [223]:
+            xmin = 25.610000
+            xmax = 25.690000
+            text = "ɕ"
+        intervals [224]:
+            xmin = 25.690000
+            xmax = 25.790000
+            text = "e"
+        intervals [225]:
+            xmin = 25.790000
+            xmax = 25.920000
+            text = "a"
+        intervals [226]:
+            xmin = 25.920000
+            xmax = 25.950000
+            text = "m"
+        intervals [227]:
+            xmin = 25.950000
+            xmax = 26.010000
+            text = "t"
+        intervals [228]:
+            xmin = 26.010000
+            xmax = 26.180000
+            text = "ɕ"
+        intervals [229]:
+            xmin = 26.180000
+            xmax = 26.310000
+            text = "o"
+        intervals [230]:
+            xmin = 26.310000
+            xmax = 26.340000
+            text = "ʀ"
+        intervals [231]:
+            xmin = 26.340000
+            xmax = 26.910000
+            text = "(...)"
+        intervals [232]:
+            xmin = 26.910000
+            xmax = 26.980000
+            text = "m"
+        intervals [233]:
+            xmin = 26.980000
+            xmax = 27.110000
+            text = "a"
+        intervals [234]:
+            xmin = 27.110000
+            xmax = 27.190000
+            text = "k"
+        intervals [235]:
+            xmin = 27.190000
+            xmax = 27.440000
+            text = "o"
+        intervals [236]:
+            xmin = 27.440000
+            xmax = 27.470000
+            text = "ŋ"
+        intervals [237]:
+            xmin = 27.470000
+            xmax = 27.600000
+            text = "l"
+        intervals [238]:
+            xmin = 27.600000
+            xmax = 27.730000
+            text = "a"
+        intervals [239]:
+            xmin = 27.730000
+            xmax = 27.790000
+            text = "ʑ"
+        intervals [240]:
+            xmin = 27.790000
+            xmax = 27.860000
+            text = "o"
+        intervals [241]:
+            xmin = 27.860000
+            xmax = 27.890000
+            text = "t"
+        intervals [242]:
+            xmin = 27.890000
+            xmax = 27.940000
+            text = "ɤ"
+        intervals [243]:
+            xmin = 27.940000
+            xmax = 27.990000
+            text = "m"
+        intervals [244]:
+            xmin = 27.990000
+            xmax = 28.020000
+            text = "d"
+        intervals [245]:
+            xmin = 28.020000
+            xmax = 28.130000
+            text = "z"
+        intervals [246]:
+            xmin = 28.130000
+            xmax = 28.180000
+            text = "u"
+        intervals [247]:
+            xmin = 28.180000
+            xmax = 28.590000
+            text = "ŋ"
+        intervals [248]:
+            xmin = 28.590000
+            xmax = 28.630000
+            text = "u"
+        intervals [249]:
+            xmin = 28.630000
+            xmax = 29.420000
+            text = "(...)"
+        intervals [250]:
+            xmin = 29.420000
+            xmax = 29.450000
+            text = "t"
+        intervals [251]:
+            xmin = 29.450000
+            xmax = 29.530000
+            text = "ɕ"
+        intervals [252]:
+            xmin = 29.530000
+            xmax = 29.670000
+            text = "e"
+        intervals [253]:
+            xmin = 29.670000
+            xmax = 29.730000
+            text = "ɯ"
+        intervals [254]:
+            xmin = 29.730000
+            xmax = 29.820000
+            text = "r"
+        intervals [255]:
+            xmin = 29.820000
+            xmax = 29.890000
+            text = "u"
+        intervals [256]:
+            xmin = 29.890000
+            xmax = 30.000000
+            text = "n"
+        intervals [257]:
+            xmin = 30.000000
+            xmax = 30.040000
+            text = "ɯ"
+        intervals [258]:
+            xmin = 30.040000
+            xmax = 30.120000
+            text = "r"
+        intervals [259]:
+            xmin = 30.120000
+            xmax = 30.200000
+            text = "a"
+        intervals [260]:
+            xmin = 30.200000
+            xmax = 30.230000
+            text = "w"
+        intervals [261]:
+            xmin = 30.230000
+            xmax = 30.280000
+            text = "u"
+        intervals [262]:
+            xmin = 30.280000
+            xmax = 30.430000
+            text = "m"
+        intervals [263]:
+            xmin = 30.430000
+            xmax = 30.520000
+            text = "a"
+        intervals [264]:
+            xmin = 30.520000
+            xmax = 30.640000
+            text = "ʑ"
+        intervals [265]:
+            xmin = 30.640000
+            xmax = 30.680000
+            text = "o"
+        intervals [266]:
+            xmin = 30.680000
+            xmax = 30.800000
+            text = "l"
+        intervals [267]:
+            xmin = 30.800000
+            xmax = 30.830000
+            text = "d"
+        intervals [268]:
+            xmin = 30.830000
+            xmax = 30.970000
+            text = "ʑ"
+        intervals [269]:
+            xmin = 30.970000
+            xmax = 31.020000
+            text = "ɯ"
+        intervals [270]:
+            xmin = 31.020000
+            xmax = 31.090000
+            text = "z"
+        intervals [271]:
+            xmin = 31.090000
+            xmax = 31.120000
+            text = "t"
+        intervals [272]:
+            xmin = 31.120000
+            xmax = 31.200000
+            text = "ɕ"
+        intervals [273]:
+            xmin = 31.200000
+            xmax = 31.400000
+            text = "e"
+        intervals [274]:
+            xmin = 31.400000
+            xmax = 31.980000
+            text = "(...)"
+        intervals [275]:
+            xmin = 31.980000
+            xmax = 32.100000
+            text = "ɯ"
+        intervals [276]:
+            xmin = 32.100000
+            xmax = 32.240000
+            text = "ʑ"
+        intervals [277]:
+            xmin = 32.240000
+            xmax = 32.330000
+            text = "o"
+        intervals [278]:
+            xmin = 32.330000
+            xmax = 32.370000
+            text = "s"
+        intervals [279]:
+            xmin = 32.370000
+            xmax = 32.460000
+            text = "t"
+        intervals [280]:
+            xmin = 32.460000
+            xmax = 32.560000
+            text = "i"
+        intervals [281]:
+            xmin = 32.560000
+            xmax = 32.640000
+            text = "t"
+        intervals [282]:
+            xmin = 32.640000
+            xmax = 32.750000
+            text = "u"
+        intervals [283]:
+            xmin = 32.750000
+            xmax = 32.780000
+            text = "ɬ"
+        intervals [284]:
+            xmin = 32.780000
+            xmax = 32.940000
+            text = "o"
+        intervals [285]:
+            xmin = 32.940000
+            xmax = 32.970000
+            text = "ʀ"
+        intervals [286]:
+            xmin = 32.970000
+            xmax = 33.040000
+            text = "m"
+        intervals [287]:
+            xmin = 33.040000
+            xmax = 33.130000
+            text = "ɤ"
+        intervals [288]:
+            xmin = 33.130000
+            xmax = 33.180000
+            text = "ŋ"
+        intervals [289]:
+            xmin = 33.180000
+            xmax = 33.230000
+            text = "ɡ"
+        intervals [290]:
+            xmin = 33.230000
+            xmax = 33.410000
+            text = "r"
+        intervals [291]:
+            xmin = 33.410000
+            xmax = 33.450000
+            text = "ɤ"
+        intervals [292]:
+            xmin = 33.450000
+            xmax = 33.530000
+            text = "l"
+        intervals [293]:
+            xmin = 33.530000
+            xmax = 33.700000
+            text = "(...)"
+        intervals [294]:
+            xmin = 33.700000
+            xmax = 33.740000
+            text = "ɕ"
+        intervals [295]:
+            xmin = 33.740000
+            xmax = 33.770000
+            text = "k"
+        intervals [296]:
+            xmin = 33.770000
+            xmax = 33.840000
+            text = "r"
+        intervals [297]:
+            xmin = 33.840000
+            xmax = 33.890000
+            text = "ɤ"
+        intervals [298]:
+            xmin = 33.890000
+            xmax = 33.920000
+            text = "z"
+        intervals [299]:
+            xmin = 33.920000
+            xmax = 34.360000
+            text = "(...)"
+        intervals [300]:
+            xmin = 34.360000
+            xmax = 34.780000
+            text = "ɯ"
+        intervals [301]:
+            xmin = 34.780000
+            xmax = 34.860000
+            text = "ŋ"
+        intervals [302]:
+            xmin = 34.860000
+            xmax = 34.900000
+            text = "ɡ"
+        intervals [303]:
+            xmin = 34.900000
+            xmax = 35.010000
+            text = "ɯ"
+        intervals [304]:
+            xmin = 35.010000
+            xmax = 35.040000
+            text = "t"
+        intervals [305]:
+            xmin = 35.040000
+            xmax = 35.100000
+            text = "ɕ"
+        intervals [306]:
+            xmin = 35.100000
+            xmax = 35.170000
+            text = "e"
+        intervals [307]:
+            xmin = 35.170000
+            xmax = 35.260000
+            text = "a"
+        intervals [308]:
+            xmin = 35.260000
+            xmax = 35.290000
+            text = "ʀ"
+        intervals [309]:
+            xmin = 35.290000
+            xmax = 35.420000
+            text = "ɤ"
+        intervals [310]:
+            xmin = 35.420000
+            xmax = 35.460000
+            text = "n"
+        intervals [311]:
+            xmin = 35.460000
+            xmax = 35.490000
+            text = "d"
+        intervals [312]:
+            xmin = 35.490000
+            xmax = 35.560000
+            text = "ɯ"
+        intervals [313]:
+            xmin = 35.560000
+            xmax = 35.650000
+            text = "n"
+        intervals [314]:
+            xmin = 35.650000
+            xmax = 35.710000
+            text = "d"
+        intervals [315]:
+            xmin = 35.710000
+            xmax = 35.800000
+            text = "ɤ"
+        intervals [316]:
+            xmin = 35.800000
+            xmax = 35.850000
+            text = "t"
+        intervals [317]:
+            xmin = 35.850000
+            xmax = 35.890000
+            text = "t"
+        intervals [318]:
+            xmin = 35.890000
+            xmax = 35.970000
+            text = "u"
+        intervals [319]:
+            xmin = 35.970000
+            xmax = 36.000000
+            text = "ɬ"
+        intervals [320]:
+            xmin = 36.000000
+            xmax = 36.200000
+            text = "o"
+        intervals [321]:
+            xmin = 36.200000
+            xmax = 36.230000
+            text = "ʀ"
+        intervals [322]:
+            xmin = 36.230000
+            xmax = 36.280000
+            text = "ŋ"
+        intervals [323]:
+            xmin = 36.280000
+            xmax = 36.320000
+            text = "ɡ"
+        intervals [324]:
+            xmin = 36.320000
+            xmax = 36.420000
+            text = "r"
+        intervals [325]:
+            xmin = 36.420000
+            xmax = 36.540000
+            text = "ɤ"
+        intervals [326]:
+            xmin = 36.540000
+            xmax = 36.630000
+            text = "l"
+        intervals [327]:
+            xmin = 36.630000
+            xmax = 37.250000
+            text = "(...)"
+        intervals [328]:
+            xmin = 37.250000
+            xmax = 37.370000
+            text = "t"
+        intervals [329]:
+            xmin = 37.370000
+            xmax = 37.450000
+            text = "ɕ"
+        intervals [330]:
+            xmin = 37.450000
+            xmax = 37.520000
+            text = "e"
+        intervals [331]:
+            xmin = 37.520000
+            xmax = 37.610000
+            text = "n"
+        intervals [332]:
+            xmin = 37.610000
+            xmax = 37.700000
+            text = "ɯ"
+        intervals [333]:
+            xmin = 37.700000
+            xmax = 37.790000
+            text = "q"
+        intervals [334]:
+            xmin = 37.790000
+            xmax = 37.940000
+            text = "a"
+        intervals [335]:
+            xmin = 37.940000
+            xmax = 37.970000
+            text = "m"
+        intervals [336]:
+            xmin = 37.970000
+            xmax = 38.120000
+            text = "t"
+        intervals [337]:
+            xmin = 38.120000
+            xmax = 38.160000
+            text = "s"
+        intervals [338]:
+            xmin = 38.160000
+            xmax = 38.190000
+            text = "ɯ"
+        intervals [339]:
+            xmin = 38.190000
+            xmax = 38.220000
+            text = "r"
+        intervals [340]:
+            xmin = 38.220000
+            xmax = 38.310000
+            text = "m"
+        intervals [341]:
+            xmin = 38.310000
+            xmax = 38.340000
+            text = "d"
+        intervals [342]:
+            xmin = 38.340000
+            xmax = 38.440000
+            text = "z"
+        intervals [343]:
+            xmin = 38.440000
+            xmax = 38.530000
+            text = "u"
+        intervals [344]:
+            xmin = 38.530000
+            xmax = 38.590000
+            text = "t"
+        intervals [345]:
+            xmin = 38.590000
+            xmax = 38.630000
+            text = "u"
+        intervals [346]:
+            xmin = 38.630000
+            xmax = 38.660000
+            text = "k"
+        intervals [347]:
+            xmin = 38.660000
+            xmax = 38.720000
+            text = "ɯ"
+        intervals [348]:
+            xmin = 38.720000
+            xmax = 38.850000
+            text = "t"
+        intervals [349]:
+            xmin = 38.850000
+            xmax = 38.920000
+            text = "i"
+        intervals [350]:
+            xmin = 38.920000
+            xmax = 38.950000
+            text = "ŋ"
+        intervals [351]:
+            xmin = 38.950000
+            xmax = 38.990000
+            text = "u"
+        intervals [352]:
+            xmin = 38.990000
+            xmax = 39.560000
+            text = "t"
+        intervals [353]:
+            xmin = 39.560000
+            xmax = 39.860000
+            text = "ɕ"
+        intervals [354]:
+            xmin = 39.860000
+            xmax = 39.960000
+            text = "e"
+        intervals [355]:
+            xmin = 39.960000
+            xmax = 40.040000
+            text = "n"
+        intervals [356]:
+            xmin = 40.040000
+            xmax = 40.080000
+            text = "ɯ"
+        intervals [357]:
+            xmin = 40.080000
+            xmax = 40.200000
+            text = "m"
+        intervals [358]:
+            xmin = 40.200000
+            xmax = 40.390000
+            text = "a"
+        intervals [359]:
+            xmin = 40.390000
+            xmax = 40.450000
+            text = "t"
+        intervals [360]:
+            xmin = 40.450000
+            xmax = 40.540000
+            text = "ɤ"
+        intervals [361]:
+            xmin = 40.540000
+            xmax = 40.630000
+            text = "m"
+        intervals [362]:
+            xmin = 40.630000
+            xmax = 40.730000
+            text = "e"
+        intervals [363]:
+            xmin = 40.730000
+            xmax = 40.760000
+            text = "t"
+        intervals [364]:
+            xmin = 40.760000
+            xmax = 40.810000
+            text = "ɕ"
+        intervals [365]:
+            xmin = 40.810000
+            xmax = 40.930000
+            text = "e"
+        intervals [366]:
+            xmin = 40.930000
+            xmax = 41.120000
+            text = "ɲ"
+        intervals [367]:
+            xmin = 41.120000
+            xmax = 41.150000
+            text = "ɯ"
+        intervals [368]:
+            xmin = 41.150000
+            xmax = 41.180000
+            text = "p"
+        intervals [369]:
+            xmin = 41.180000
+            xmax = 41.240000
+            text = "h"
+        intervals [370]:
+            xmin = 41.240000
+            xmax = 41.280000
+            text = "ɯ"
+        intervals [371]:
+            xmin = 41.280000
+            xmax = 41.310000
+            text = "t"
+        intervals [372]:
+            xmin = 41.310000
+            xmax = 41.380000
+            text = "n"
+        intervals [373]:
+            xmin = 41.380000
+            xmax = 41.450000
+            text = "ɯ"
+        intervals [374]:
+            xmin = 41.450000
+            xmax = 41.480000
+            text = "t"
+        intervals [375]:
+            xmin = 41.480000
+            xmax = 41.560000
+            text = "ɕ"
+        intervals [376]:
+            xmin = 41.560000
+            xmax = 41.670000
+            text = "e"
+        intervals [377]:
+            xmin = 41.670000
+            xmax = 41.840000
+            text = "t"
+        intervals [378]:
+            xmin = 41.840000
+            xmax = 42.070000
+            text = "ɤ"
+        intervals [379]:
+            xmin = 42.070000
+            xmax = 42.240000
+            text = "n"
+        intervals [380]:
+            xmin = 42.240000
+            xmax = 42.330000
+            text = "ɤ"
+        intervals [381]:
+            xmin = 42.330000
+            xmax = 42.430000
+            text = "k"
+        intervals [382]:
+            xmin = 42.430000
+            xmax = 42.490000
+            text = "i"
+        intervals [383]:
+            xmin = 42.490000
+            xmax = 42.570000
+            text = "n"
+        intervals [384]:
+            xmin = 42.570000
+            xmax = 42.710000
+            text = "ɯ"
+        intervals [385]:
+            xmin = 42.710000
+            xmax = 42.870000
+            text = "t"
+        intervals [386]:
+            xmin = 42.870000
+            xmax = 42.900000
+            text = "ɯ"
+        intervals [387]:
+            xmin = 42.900000
+            xmax = 43.110000
+            text = "j"
+        intervals [388]:
+            xmin = 43.110000
+            xmax = 43.180000
+            text = "i"
+        intervals [389]:
+            xmin = 43.180000
+            xmax = 43.350000
+            text = "(...)"
+        intervals [390]:
+            xmin = 43.350000
+            xmax = 43.390000
+            text = "ɯ"
+        intervals [391]:
+            xmin = 43.390000
+            xmax = 43.450000
+            text = "r"
+        intervals [392]:
+            xmin = 43.450000
+            xmax = 43.510000
+            text = "k"
+        intervals [393]:
+            xmin = 43.510000
+            xmax = 43.600000
+            text = "ɯ"
+        intervals [394]:
+            xmin = 43.600000
+            xmax = 43.650000
+            text = "r"
+        intervals [395]:
+            xmin = 43.650000
+            xmax = 43.700000
+            text = "a"
+        intervals [396]:
+            xmin = 43.700000
+            xmax = 43.750000
+            text = "t"
+        intervals [397]:
+            xmin = 43.750000
+            xmax = 43.790000
+            text = "ɤ"
+        intervals [398]:
+            xmin = 43.790000
+            xmax = 43.820000
+            text = "ɣ"
+        intervals [399]:
+            xmin = 43.820000
+            xmax = 43.990000
+            text = "u"
+        intervals [400]:
+            xmin = 43.990000
+            xmax = 44.070000
+            text = "r"
+        intervals [401]:
+            xmin = 44.070000
+            xmax = 44.160000
+            text = "p"
+        intervals [402]:
+            xmin = 44.160000
+            xmax = 44.200000
+            text = "j"
+        intervals [403]:
+            xmin = 44.200000
+            xmax = 44.230000
+            text = "ɯ"
+        intervals [404]:
+            xmin = 44.230000
+            xmax = 44.330000
+            text = "t"
+        intervals [405]:
+            xmin = 44.330000
+            xmax = 44.370000
+            text = "a"
+        intervals [406]:
+            xmin = 44.370000
+            xmax = 44.400000
+            text = "n"
+        intervals [407]:
+            xmin = 44.400000
+            xmax = 44.450000
+            text = "ɯ"
+        intervals [408]:
+            xmin = 44.450000
+            xmax = 44.480000
+            text = "t"
+        intervals [409]:
+            xmin = 44.480000
+            xmax = 44.550000
+            text = "ɕ"
+        intervals [410]:
+            xmin = 44.550000
+            xmax = 44.670000
+            text = "e"
+        intervals [411]:
+            xmin = 44.670000
+            xmax = 45.020000
+            text = "(...)"
+        intervals [412]:
+            xmin = 45.020000
+            xmax = 45.050000
+            text = "f"
+        intervals [413]:
+            xmin = 45.050000
+            xmax = 45.130000
+            text = "s"
+        intervals [414]:
+            xmin = 45.130000
+            xmax = 45.270000
+            text = "a"
+        intervals [415]:
+            xmin = 45.270000
+            xmax = 45.340000
+            text = "p"
+        intervals [416]:
+            xmin = 45.340000
+            xmax = 45.430000
+            text = "a"
+        intervals [417]:
+            xmin = 45.430000
+            xmax = 45.460000
+            text = "ʀ"
+        intervals [418]:
+            xmin = 45.460000
+            xmax = 45.490000
+            text = "ɯ"
+        intervals [419]:
+            xmin = 45.490000
+            xmax = 45.600000
+            text = "m"
+        intervals [420]:
+            xmin = 45.600000
+            xmax = 45.680000
+            text = "ɤ"
+        intervals [421]:
+            xmin = 45.680000
+            xmax = 45.770000
+            text = "s"
+        intervals [422]:
+            xmin = 45.770000
+            xmax = 45.880000
+            text = "ɤ"
+        intervals [423]:
+            xmin = 45.880000
+            xmax = 45.910000
+            text = "x"
+        intervals [424]:
+            xmin = 45.910000
+            xmax = 46.020000
+            text = "ɕ"
+        intervals [425]:
+            xmin = 46.020000
+            xmax = 46.110000
+            text = "e"
+        intervals [426]:
+            xmin = 46.110000
+            xmax = 46.220000
+            text = "t"
+        intervals [427]:
+            xmin = 46.220000
+            xmax = 46.270000
+            text = "u"
+        intervals [428]:
+            xmin = 46.270000
+            xmax = 46.310000
+            text = "β"
+        intervals [429]:
+            xmin = 46.310000
+            xmax = 46.440000
+            text = "z"
+        intervals [430]:
+            xmin = 46.440000
+            xmax = 46.490000
+            text = "u"
+        intervals [431]:
+            xmin = 46.490000
+            xmax = 46.560000
+            text = "n"
+        intervals [432]:
+            xmin = 46.560000
+            xmax = 46.920000
+            text = "ɯ"
+        intervals [433]:
+            xmin = 46.920000
+            xmax = 47.590000
+            text = "(...)"
+        intervals [434]:
+            xmin = 47.590000
+            xmax = 47.740000
+            text = "ŋ"
+        intervals [435]:
+            xmin = 47.740000
+            xmax = 47.800000
+            text = "ɡ"
+        intervals [436]:
+            xmin = 47.800000
+            xmax = 47.890000
+            text = "r"
+        intervals [437]:
+            xmin = 47.890000
+            xmax = 47.930000
+            text = "ɤ"
+        intervals [438]:
+            xmin = 47.930000
+            xmax = 47.960000
+            text = "l"
+        intervals [439]:
+            xmin = 47.960000
+            xmax = 47.990000
+            text = "r"
+        intervals [440]:
+            xmin = 47.990000
+            xmax = 48.030000
+            text = "i"
+        intervals [441]:
+            xmin = 48.030000
+            xmax = 48.170000
+            text = "m"
+        intervals [442]:
+            xmin = 48.170000
+            xmax = 48.250000
+            text = "ɯ"
+        intervals [443]:
+            xmin = 48.250000
+            xmax = 48.280000
+            text = "m"
+        intervals [444]:
+            xmin = 48.280000
+            xmax = 48.330000
+            text = "ɤ"
+        intervals [445]:
+            xmin = 48.330000
+            xmax = 48.380000
+            text = "p"
+        intervals [446]:
+            xmin = 48.380000
+            xmax = 48.500000
+            text = "ɯ"
+        intervals [447]:
+            xmin = 48.500000
+            xmax = 48.560000
+            text = "d"
+        intervals [448]:
+            xmin = 48.560000
+            xmax = 48.650000
+            text = "ɤ"
+        intervals [449]:
+            xmin = 48.650000
+            xmax = 48.770000
+            text = "n"
+        intervals [450]:
+            xmin = 48.770000
+            xmax = 48.800000
+            text = "t"
+        intervals [451]:
+            xmin = 48.800000
+            xmax = 48.860000
+            text = "s"
+        intervals [452]:
+            xmin = 48.860000
+            xmax = 49.030000
+            text = "a"
+        intervals [453]:
+            xmin = 49.030000
+            xmax = 49.150000
+            text = "n"
+        intervals [454]:
+            xmin = 49.150000
+            xmax = 49.500000
+            text = "ɤ"
+        intervals [455]:
+            xmin = 49.500000
+            xmax = 49.900000
+            text = "(...)"
+        intervals [456]:
+            xmin = 49.900000
+            xmax = 49.930000
+            text = "f"
+        intervals [457]:
+            xmin = 49.930000
+            xmax = 49.980000
+            text = "s"
+        intervals [458]:
+            xmin = 49.980000
+            xmax = 50.080000
+            text = "a"
+        intervals [459]:
+            xmin = 50.080000
+            xmax = 50.200000
+            text = "p"
+        intervals [460]:
+            xmin = 50.200000
+            xmax = 50.290000
+            text = "a"
+        intervals [461]:
+            xmin = 50.290000
+            xmax = 50.320000
+            text = "ʀ"
+        intervals [462]:
+            xmin = 50.320000
+            xmax = 50.350000
+            text = "r"
+        intervals [463]:
+            xmin = 50.350000
+            xmax = 50.460000
+            text = "a"
+        intervals [464]:
+            xmin = 50.460000
+            xmax = 50.540000
+            text = "k"
+        intervals [465]:
+            xmin = 50.540000
+            xmax = 50.610000
+            text = "ɯ"
+        intervals [466]:
+            xmin = 50.610000
+            xmax = 50.740000
+            text = "r"
+        intervals [467]:
+            xmin = 50.740000
+            xmax = 50.790000
+            text = "ɤ"
+        intervals [468]:
+            xmin = 50.790000
+            xmax = 50.820000
+            text = "t"
+        intervals [469]:
+            xmin = 50.820000
+            xmax = 50.970000
+            text = "ɕ"
+        intervals [470]:
+            xmin = 50.970000
+            xmax = 51.120000
+            text = "a"
+        intervals [471]:
+            xmin = 51.120000
+            xmax = 51.150000
+            text = "ʀ"
+        intervals [472]:
+            xmin = 51.150000
+            xmax = 51.180000
+            text = "n"
+        intervals [473]:
+            xmin = 51.180000
+            xmax = 51.220000
+            text = "ɯ"
+        intervals [474]:
+            xmin = 51.220000
+            xmax = 51.300000
+            text = "ɕ"
+        intervals [475]:
+            xmin = 51.300000
+            xmax = 51.390000
+            text = "t"
+        intervals [476]:
+            xmin = 51.390000
+            xmax = 51.470000
+            text = "i"
+        intervals [477]:
+            xmin = 51.470000
+            xmax = 51.590000
+            text = "m"
+        intervals [478]:
+            xmin = 51.590000
+            xmax = 51.820000
+            text = "a"
+        intervals [479]:
+            xmin = 51.820000
+            xmax = 52.320000
+            text = "(...)"
+        intervals [480]:
+            xmin = 52.320000
+            xmax = 52.590000
+            text = "ɲ"
+        intervals [481]:
+            xmin = 52.590000
+            xmax = 52.620000
+            text = "ɯ"
+        intervals [482]:
+            xmin = 52.620000
+            xmax = 52.710000
+            text = "j"
+        intervals [483]:
+            xmin = 52.710000
+            xmax = 52.890000
+            text = "p"
+        intervals [484]:
+            xmin = 52.890000
+            xmax = 53.000000
+            text = "u"
+        intervals [485]:
+            xmin = 53.000000
+            xmax = 53.030000
+            text = "m"
+        intervals [486]:
+            xmin = 53.030000
+            xmax = 53.060000
+            text = "t"
+        intervals [487]:
+            xmin = 53.060000
+            xmax = 53.100000
+            text = "ɕ"
+        intervals [488]:
+            xmin = 53.100000
+            xmax = 53.170000
+            text = "e"
+        intervals [489]:
+            xmin = 53.170000
+            xmax = 53.280000
+            text = "t"
+        intervals [490]:
+            xmin = 53.280000
+            xmax = 53.330000
+            text = "u"
+        intervals [491]:
+            xmin = 53.330000
+            xmax = 53.410000
+            text = "m"
+        intervals [492]:
+            xmin = 53.410000
+            xmax = 53.460000
+            text = "b"
+        intervals [493]:
+            xmin = 53.460000
+            xmax = 53.560000
+            text = "r"
+        intervals [494]:
+            xmin = 53.560000
+            xmax = 53.650000
+            text = "o"
+        intervals [495]:
+            xmin = 53.650000
+            xmax = 53.720000
+            text = "m"
+        intervals [496]:
+            xmin = 53.720000
+            xmax = 53.840000
+            text = "ɤ"
+        intervals [497]:
+            xmin = 53.840000
+            xmax = 53.980000
+            text = "c"
+        intervals [498]:
+            xmin = 53.980000
+            xmax = 54.440000
+            text = "h"
+        intervals [499]:
+            xmin = 54.440000
+            xmax = 54.670000
+            text = "a"
+        intervals [500]:
+            xmin = 54.670000
+            xmax = 55.910000
+            text = "(...)"
+        intervals [501]:
+            xmin = 55.910000
+            xmax = 55.950000
+            text = "t"
+        intervals [502]:
+            xmin = 55.950000
+            xmax = 55.990000
+            text = "ɕ"
+        intervals [503]:
+            xmin = 55.990000
+            xmax = 56.030000
+            text = "e"
+        intervals [504]:
+            xmin = 56.030000
+            xmax = 56.830000
+            text = "(...)"
+        intervals [505]:
+            xmin = 56.830000
+            xmax = 56.960000
+            text = "n"
+        intervals [506]:
+            xmin = 56.960000
+            xmax = 57.060000
+            text = "ɯ"
+        intervals [507]:
+            xmin = 57.060000
+            xmax = 57.120000
+            text = "(...)"
+        intervals [508]:
+            xmin = 57.120000
+            xmax = 57.150000
+            text = "q"
+        intervals [509]:
+            xmin = 57.150000
+            xmax = 57.220000
+            text = "a"
+        intervals [510]:
+            xmin = 57.220000
+            xmax = 57.270000
+            text = "m"
+        intervals [511]:
+            xmin = 57.270000
+            xmax = 57.400000
+            text = "t"
+        intervals [512]:
+            xmin = 57.400000
+            xmax = 57.430000
+            text = "s"
+        intervals [513]:
+            xmin = 57.430000
+            xmax = 57.480000
+            text = "ɯ"
+        intervals [514]:
+            xmin = 57.480000
+            xmax = 57.560000
+            text = "r"
+        intervals [515]:
+            xmin = 57.560000
+            xmax = 57.650000
+            text = "m"
+        intervals [516]:
+            xmin = 57.650000
+            xmax = 57.680000
+            text = "d"
+        intervals [517]:
+            xmin = 57.680000
+            xmax = 57.790000
+            text = "z"
+        intervals [518]:
+            xmin = 57.790000
+            xmax = 57.870000
+            text = "u"
+        intervals [519]:
+            xmin = 57.870000
+            xmax = 58.040000
+            text = "ŋ"
+        intervals [520]:
+            xmin = 58.040000
+            xmax = 58.080000
+            text = "u"
+        intervals [521]:
+            xmin = 58.080000
+            xmax = 58.400000
+            text = "(...)"
+        intervals [522]:
+            xmin = 58.400000
+            xmax = 58.430000
+            text = "t"
+        intervals [523]:
+            xmin = 58.430000
+            xmax = 58.470000
+            text = "ɕ"
+        intervals [524]:
+            xmin = 58.470000
+            xmax = 58.510000
+            text = "e"
+        intervals [525]:
+            xmin = 58.510000
+            xmax = 59.340000
+            text = "(...)"
+        intervals [526]:
+            xmin = 59.340000
+            xmax = 59.400000
+            text = "q"
+        intervals [527]:
+            xmin = 59.400000
+            xmax = 59.670000
+            text = "a"
+        intervals [528]:
+            xmin = 59.670000
+            xmax = 59.760000
+            text = "m"
+        intervals [529]:
+            xmin = 59.760000
+            xmax = 59.830000
+            text = "t"
+        intervals [530]:
+            xmin = 59.830000
+            xmax = 59.860000
+            text = "s"
+        intervals [531]:
+            xmin = 59.860000
+            xmax = 59.940000
+            text = "ɯ"
+        intervals [532]:
+            xmin = 59.940000
+            xmax = 59.980000
+            text = "r"
+        intervals [533]:
+            xmin = 59.980000
+            xmax = 60.080000
+            text = "m"
+        intervals [534]:
+            xmin = 60.080000
+            xmax = 60.110000
+            text = "d"
+        intervals [535]:
+            xmin = 60.110000
+            xmax = 60.180000
+            text = "z"
+        intervals [536]:
+            xmin = 60.180000
+            xmax = 60.250000
+            text = "u"
+        intervals [537]:
+            xmin = 60.250000
+            xmax = 60.350000
+            text = "n"
+        intervals [538]:
+            xmin = 60.350000
+            xmax = 60.420000
+            text = "ɯ"
+        intervals [539]:
+            xmin = 60.420000
+            xmax = 60.520000
+            text = "n"
+        intervals [540]:
+            xmin = 60.520000
+            xmax = 60.740000
+            text = "ɯ"
+        intervals [541]:
+            xmin = 60.740000
+            xmax = 61.210000
+            text = "(...)"
+        intervals [542]:
+            xmin = 61.210000
+            xmax = 61.240000
+            text = "n"
+        intervals [543]:
+            xmin = 61.240000
+            xmax = 61.330000
+            text = "ɤ"
+        intervals [544]:
+            xmin = 61.330000
+            xmax = 61.420000
+            text = "k"
+        intervals [545]:
+            xmin = 61.420000
+            xmax = 61.460000
+            text = "i"
+        intervals [546]:
+            xmin = 61.460000
+            xmax = 61.490000
+            text = "n"
+        intervals [547]:
+            xmin = 61.490000
+            xmax = 61.520000
+            text = "ɯ"
+        intervals [548]:
+            xmin = 61.520000
+            xmax = 61.550000
+            text = "ɯ"
+        intervals [549]:
+            xmin = 61.550000
+            xmax = 61.580000
+            text = "m"
+        intervals [550]:
+            xmin = 61.580000
+            xmax = 61.610000
+            text = "d"
+        intervals [551]:
+            xmin = 61.610000
+            xmax = 62.250000
+            text = "o"
+        intervals [552]:
+            xmin = 62.250000
+            xmax = 62.280000
+            text = "ʀ"
+        intervals [553]:
+            xmin = 62.280000
+            xmax = 62.540000
+            text = "r"
+        intervals [554]:
+            xmin = 62.540000
+            xmax = 62.740000
+            text = "a"
+        intervals [555]:
+            xmin = 62.740000
+            xmax = 62.990000
+            text = "ɯ"
+        intervals [556]:
+            xmin = 62.990000
+            xmax = 63.170000
+            text = "j"
+        intervals [557]:
+            xmin = 63.170000
+            xmax = 63.290000
+            text = "w"
+        intervals [558]:
+            xmin = 63.290000
+            xmax = 63.460000
+            text = "a"
+        intervals [559]:
+            xmin = 63.460000
+            xmax = 63.490000
+            text = "ʀ"
+        intervals [560]:
+            xmin = 63.490000
+            xmax = 63.580000
+            text = "m"
+        intervals [561]:
+            xmin = 63.580000
+            xmax = 63.920000
+            text = "e"
+        intervals [562]:
+            xmin = 63.920000
+            xmax = 63.950000
+            text = "ɯ"
+        intervals [563]:
+            xmin = 63.950000
+            xmax = 63.980000
+            text = "m"
+        intervals [564]:
+            xmin = 63.980000
+            xmax = 64.010000
+            text = "d"
+        intervals [565]:
+            xmin = 64.010000
+            xmax = 64.040000
+            text = "z"
+        intervals [566]:
+            xmin = 64.040000
+            xmax = 64.190000
+            text = "u"
+        intervals [567]:
+            xmin = 64.190000
+            xmax = 64.300000
+            text = "m"
+        intervals [568]:
+            xmin = 64.300000
+            xmax = 64.530000
+            text = "e"
+        intervals [569]:
+            xmin = 64.530000
+            xmax = 64.590000
+            text = "k"
+        intervals [570]:
+            xmin = 64.590000
+            xmax = 64.620000
+            text = "ɯ"
+        intervals [571]:
+            xmin = 64.620000
+            xmax = 64.810000
+            text = "p"
+        intervals [572]:
+            xmin = 64.810000
+            xmax = 64.860000
+            text = "ɣ"
+        intervals [573]:
+            xmin = 64.860000
+            xmax = 65.070000
+            text = "i"
+        intervals [574]:
+            xmin = 65.070000
+            xmax = 65.120000
+            text = "c"
+        intervals [575]:
+            xmin = 65.120000
+            xmax = 65.170000
+            text = "i"
+        intervals [576]:
+            xmin = 65.170000
+            xmax = 65.280000
+            text = "ŋ"
+        intervals [577]:
+            xmin = 65.280000
+            xmax = 65.460000
+            text = "u"
+        intervals [578]:
+            xmin = 65.460000
+            xmax = 66.060000
+            text = "(...)"
+        intervals [579]:
+            xmin = 66.060000
+            xmax = 66.160000
+            text = "t"
+        intervals [580]:
+            xmin = 66.160000
+            xmax = 66.280000
+            text = "ɕ"
+        intervals [581]:
+            xmin = 66.280000
+            xmax = 66.390000
+            text = "e"
+        intervals [582]:
+            xmin = 66.390000
+            xmax = 66.450000
+            text = "n"
+        intervals [583]:
+            xmin = 66.450000
+            xmax = 66.540000
+            text = "ɯ"
+        intervals [584]:
+            xmin = 66.540000
+            xmax = 66.600000
+            text = "n"
+        intervals [585]:
+            xmin = 66.600000
+            xmax = 66.700000
+            text = "ɯ"
+        intervals [586]:
+            xmin = 66.700000
+            xmax = 66.730000
+            text = "t"
+        intervals [587]:
+            xmin = 66.730000
+            xmax = 66.790000
+            text = "ɤ"
+        intervals [588]:
+            xmin = 66.790000
+            xmax = 66.820000
+            text = "ɬ"
+        intervals [589]:
+            xmin = 66.820000
+            xmax = 67.150000
+            text = "o"
+        intervals [590]:
+            xmin = 67.150000
+            xmax = 67.180000
+            text = "ʀ"
+        intervals [591]:
+            xmin = 67.180000
+            xmax = 67.220000
+            text = "t"
+        intervals [592]:
+            xmin = 67.220000
+            xmax = 67.290000
+            text = "ɕ"
+        intervals [593]:
+            xmin = 67.290000
+            xmax = 67.500000
+            text = "e"
+        intervals [594]:
+            xmin = 67.500000
+            xmax = 67.580000
+            text = "n"
+        intervals [595]:
+            xmin = 67.580000
+            xmax = 67.710000
+            text = "ɤ"
+        intervals [596]:
+            xmin = 67.710000
+            xmax = 67.770000
+            text = "k"
+        intervals [597]:
+            xmin = 67.770000
+            xmax = 67.850000
+            text = "i"
+        intervals [598]:
+            xmin = 67.850000
+            xmax = 67.950000
+            text = "n"
+        intervals [599]:
+            xmin = 67.950000
+            xmax = 68.270000
+            text = "ɯ"
+        intervals [600]:
+            xmin = 68.270000
+            xmax = 68.350000
+            text = "ɯ"
+        intervals [601]:
+            xmin = 68.350000
+            xmax = 68.490000
+            text = "m"
+        intervals [602]:
+            xmin = 68.490000
+            xmax = 68.620000
+            text = "a"
+        intervals [603]:
+            xmin = 68.620000
+            xmax = 68.650000
+            text = "t"
+        intervals [604]:
+            xmin = 68.650000
+            xmax = 68.760000
+            text = "n"
+        intervals [605]:
+            xmin = 68.760000
+            xmax = 68.800000
+            text = "ɯ"
+        intervals [606]:
+            xmin = 68.800000
+            xmax = 68.890000
+            text = "n"
+        intervals [607]:
+            xmin = 68.890000
+            xmax = 68.970000
+            text = "ɯ"
+        intervals [608]:
+            xmin = 68.970000
+            xmax = 69.050000
+            text = "s"
+        intervals [609]:
+            xmin = 69.050000
+            xmax = 69.110000
+            text = "t"
+        intervals [610]:
+            xmin = 69.110000
+            xmax = 69.190000
+            text = "a"
+        intervals [611]:
+            xmin = 69.190000
+            xmax = 69.230000
+            text = "χ"
+        intervals [612]:
+            xmin = 69.230000
+            xmax = 69.400000
+            text = "p"
+        intervals [613]:
+            xmin = 69.400000
+            xmax = 69.460000
+            text = "ɯ"
+        intervals [614]:
+            xmin = 69.460000
+            xmax = 69.570000
+            text = "c"
+        intervals [615]:
+            xmin = 69.570000
+            xmax = 69.640000
+            text = "ɤ"
+        intervals [616]:
+            xmin = 69.640000
+            xmax = 69.690000
+            text = "β"
+        intervals [617]:
+            xmin = 69.690000
+            xmax = 69.760000
+            text = "k"
+        intervals [618]:
+            xmin = 69.760000
+            xmax = 69.810000
+            text = "ɯ"
+        intervals [619]:
+            xmin = 69.810000
+            xmax = 69.850000
+            text = "f"
+        intervals [620]:
+            xmin = 69.850000
+            xmax = 69.900000
+            text = "s"
+        intervals [621]:
+            xmin = 69.900000
+            xmax = 70.020000
+            text = "e"
+        intervals [622]:
+            xmin = 70.020000
+            xmax = 70.100000
+            text = "c"
+        intervals [623]:
+            xmin = 70.100000
+            xmax = 70.160000
+            text = "h"
+        intervals [624]:
+            xmin = 70.160000
+            xmax = 70.190000
+            text = "ɯ"
+        intervals [625]:
+            xmin = 70.190000
+            xmax = 70.220000
+            text = "β"
+        intervals [626]:
+            xmin = 70.220000
+            xmax = 70.330000
+            text = "z"
+        intervals [627]:
+            xmin = 70.330000
+            xmax = 70.510000
+            text = "e"
+        intervals [628]:
+            xmin = 70.510000
+            xmax = 70.720000
+            text = "ŋ"
+        intervals [629]:
+            xmin = 70.720000
+            xmax = 70.760000
+            text = "u"
+        intervals [630]:
+            xmin = 70.760000
+            xmax = 71.520000
+            text = "(...)"
+        intervals [631]:
+            xmin = 71.520000
+            xmax = 71.550000
+            text = "t"
+        intervals [632]:
+            xmin = 71.550000
+            xmax = 71.620000
+            text = "ɕ"
+        intervals [633]:
+            xmin = 71.620000
+            xmax = 71.660000
+            text = "e"
+        intervals [634]:
+            xmin = 71.660000
+            xmax = 71.700000
+            text = "s"
+        intervals [635]:
+            xmin = 71.700000
+            xmax = 71.780000
+            text = "t"
+        intervals [636]:
+            xmin = 71.780000
+            xmax = 71.840000
+            text = "a"
+        intervals [637]:
+            xmin = 71.840000
+            xmax = 71.870000
+            text = "χ"
+        intervals [638]:
+            xmin = 71.870000
+            xmax = 71.910000
+            text = "p"
+        intervals [639]:
+            xmin = 71.910000
+            xmax = 71.940000
+            text = "ɯ"
+        intervals [640]:
+            xmin = 71.940000
+            xmax = 72.030000
+            text = "c"
+        intervals [641]:
+            xmin = 72.030000
+            xmax = 72.090000
+            text = "ɤ"
+        intervals [642]:
+            xmin = 72.090000
+            xmax = 72.120000
+            text = "β"
+        intervals [643]:
+            xmin = 72.120000
+            xmax = 72.160000
+            text = "i"
+        intervals [644]:
+            xmin = 72.160000
+            xmax = 72.250000
+            text = "ɕ"
+        intervals [645]:
+            xmin = 72.250000
+            xmax = 72.280000
+            text = "q"
+        intervals [646]:
+            xmin = 72.280000
+            xmax = 72.500000
+            text = "h"
+        intervals [647]:
+            xmin = 72.500000
+            xmax = 72.540000
+            text = "a"
+        intervals [648]:
+            xmin = 72.540000
+            xmax = 72.730000
+            text = "w"
+        intervals [649]:
+            xmin = 72.730000
+            xmax = 72.820000
+            text = "u"
+        intervals [650]:
+            xmin = 72.820000
+            xmax = 72.850000
+            text = "ŋ"
+        intervals [651]:
+            xmin = 72.850000
+            xmax = 72.880000
+            text = "ɡ"
+        intervals [652]:
+            xmin = 72.880000
+            xmax = 72.910000
+            text = "r"
+        intervals [653]:
+            xmin = 72.910000
+            xmax = 72.970000
+            text = "u"
+        intervals [654]:
+            xmin = 72.970000
+            xmax = 73.020000
+            text = "ɣ"
+        intervals [655]:
+            xmin = 73.020000
+            xmax = 73.060000
+            text = "ɯ"
+        intervals [656]:
+            xmin = 73.060000
+            xmax = 73.350000
+            text = "ɯ"
+        intervals [657]:
+            xmin = 73.350000
+            xmax = 73.480000
+            text = "m"
+        intervals [658]:
+            xmin = 73.480000
+            xmax = 73.580000
+            text = "a"
+        intervals [659]:
+            xmin = 73.580000
+            xmax = 73.610000
+            text = "t"
+        intervals [660]:
+            xmin = 73.610000
+            xmax = 73.640000
+            text = "k"
+        intervals [661]:
+            xmin = 73.640000
+            xmax = 73.770000
+            text = "ɯ"
+        intervals [662]:
+            xmin = 73.770000
+            xmax = 73.830000
+            text = "f"
+        intervals [663]:
+            xmin = 73.830000
+            xmax = 73.880000
+            text = "s"
+        intervals [664]:
+            xmin = 73.880000
+            xmax = 73.990000
+            text = "ɯ"
+        intervals [665]:
+            xmin = 73.990000
+            xmax = 74.090000
+            text = "f"
+        intervals [666]:
+            xmin = 74.090000
+            xmax = 74.120000
+            text = "s"
+        intervals [667]:
+            xmin = 74.120000
+            xmax = 74.290000
+            text = "e"
+        intervals [668]:
+            xmin = 74.290000
+            xmax = 74.350000
+            text = "ʑ"
+        intervals [669]:
+            xmin = 74.350000
+            xmax = 74.600000
+            text = "o"
+        intervals [670]:
+            xmin = 74.600000
+            xmax = 74.840000
+            text = "(...)"
+        intervals [671]:
+            xmin = 74.840000
+            xmax = 75.060000
+            text = "ŋ"
+        intervals [672]:
+            xmin = 75.060000
+            xmax = 75.100000
+            text = "u"
+        intervals [673]:
+            xmin = 75.100000
+            xmax = 75.450000
+            text = "(...)"
+        intervals [674]:
+            xmin = 75.450000
+            xmax = 75.480000
+            text = "t"
+        intervals [675]:
+            xmin = 75.480000
+            xmax = 75.570000
+            text = "ɕ"
+        intervals [676]:
+            xmin = 75.570000
+            xmax = 75.670000
+            text = "e"
+        intervals [677]:
+            xmin = 75.670000
+            xmax = 75.750000
+            text = "n"
+        intervals [678]:
+            xmin = 75.750000
+            xmax = 75.810000
+            text = "ɯ"
+        intervals [679]:
+            xmin = 75.810000
+            xmax = 75.880000
+            text = "n"
+        intervals [680]:
+            xmin = 75.880000
+            xmax = 75.940000
+            text = "ɯ"
+        intervals [681]:
+            xmin = 75.940000
+            xmax = 76.020000
+            text = "k"
+        intervals [682]:
+            xmin = 76.020000
+            xmax = 76.060000
+            text = "ɯ"
+        intervals [683]:
+            xmin = 76.060000
+            xmax = 76.100000
+            text = "f"
+        intervals [684]:
+            xmin = 76.100000
+            xmax = 76.130000
+            text = "s"
+        intervals [685]:
+            xmin = 76.130000
+            xmax = 76.310000
+            text = "e"
+        intervals [686]:
+            xmin = 76.310000
+            xmax = 76.350000
+            text = "c"
+        intervals [687]:
+            xmin = 76.350000
+            xmax = 76.380000
+            text = "h"
+        intervals [688]:
+            xmin = 76.380000
+            xmax = 76.410000
+            text = "ɯ"
+        intervals [689]:
+            xmin = 76.410000
+            xmax = 76.440000
+            text = "β"
+        intervals [690]:
+            xmin = 76.440000
+            xmax = 76.540000
+            text = "z"
+        intervals [691]:
+            xmin = 76.540000
+            xmax = 76.690000
+            text = "e"
+        intervals [692]:
+            xmin = 76.690000
+            xmax = 76.750000
+            text = "ŋ"
+        intervals [693]:
+            xmin = 76.750000
+            xmax = 76.790000
+            text = "u"
+        intervals [694]:
+            xmin = 76.790000
+            xmax = 76.820000
+            text = "t"
+        intervals [695]:
+            xmin = 76.820000
+            xmax = 76.940000
+            text = "ɕ"
+        intervals [696]:
+            xmin = 76.940000
+            xmax = 77.070000
+            text = "e"
+        intervals [697]:
+            xmin = 77.070000
+            xmax = 77.260000
+            text = "(...)"
+        intervals [698]:
+            xmin = 77.260000
+            xmax = 77.540000
+            text = "t"
+        intervals [699]:
+            xmin = 77.540000
+            xmax = 77.620000
+            text = "ɕ"
+        intervals [700]:
+            xmin = 77.620000
+            xmax = 77.850000
+            text = "e"
+        intervals [701]:
+            xmin = 77.850000
+            xmax = 77.880000
+            text = "ɯ"
+        intervals [702]:
+            xmin = 77.880000
+            xmax = 78.000000
+            text = "m"
+        intervals [703]:
+            xmin = 78.000000
+            xmax = 78.040000
+            text = "d"
+        intervals [704]:
+            xmin = 78.040000
+            xmax = 78.180000
+            text = "z"
+        intervals [705]:
+            xmin = 78.180000
+            xmax = 78.280000
+            text = "u"
+        intervals [706]:
+            xmin = 78.280000
+            xmax = 78.350000
+            text = "n"
+        intervals [707]:
+            xmin = 78.350000
+            xmax = 78.500000
+            text = "ɯ"
+        intervals [708]:
+            xmin = 78.500000
+            xmax = 78.570000
+            text = "ɯ"
+        intervals [709]:
+            xmin = 78.570000
+            xmax = 78.620000
+            text = "t"
+        intervals [710]:
+            xmin = 78.620000
+            xmax = 78.780000
+            text = "a"
+        intervals [711]:
+            xmin = 78.780000
+            xmax = 78.810000
+            text = "ʀ"
+        intervals [712]:
+            xmin = 78.810000
+            xmax = 78.840000
+            text = "r"
+        intervals [713]:
+            xmin = 78.840000
+            xmax = 78.880000
+            text = "i"
+        intervals [714]:
+            xmin = 78.880000
+            xmax = 78.910000
+            text = "ɯ"
+        intervals [715]:
+            xmin = 78.910000
+            xmax = 79.550000
+            text = "j"
+        intervals [716]:
+            xmin = 79.550000
+            xmax = 79.680000
+            text = "w"
+        intervals [717]:
+            xmin = 79.680000
+            xmax = 79.810000
+            text = "a"
+        intervals [718]:
+            xmin = 79.810000
+            xmax = 79.840000
+            text = "ʀ"
+        intervals [719]:
+            xmin = 79.840000
+            xmax = 79.870000
+            text = "n"
+        intervals [720]:
+            xmin = 79.870000
+            xmax = 79.910000
+            text = "ɯ"
+        intervals [721]:
+            xmin = 79.910000
+            xmax = 80.050000
+            text = "k"
+        intervals [722]:
+            xmin = 80.050000
+            xmax = 80.090000
+            text = "ɯ"
+        intervals [723]:
+            xmin = 80.090000
+            xmax = 80.130000
+            text = "ɤ"
+        intervals [724]:
+            xmin = 80.130000
+            xmax = 80.190000
+            text = "r"
+        intervals [725]:
+            xmin = 80.190000
+            xmax = 80.330000
+            text = "t"
+        intervals [726]:
+            xmin = 80.330000
+            xmax = 80.360000
+            text = "ɯ"
+        intervals [727]:
+            xmin = 80.360000
+            xmax = 80.480000
+            text = "m"
+        intervals [728]:
+            xmin = 80.480000
+            xmax = 80.510000
+            text = "t"
+        intervals [729]:
+            xmin = 80.510000
+            xmax = 80.550000
+            text = "s"
+        intervals [730]:
+            xmin = 80.550000
+            xmax = 80.660000
+            text = "a"
+        intervals [731]:
+            xmin = 80.660000
+            xmax = 80.760000
+            text = "l"
+        intervals [732]:
+            xmin = 80.760000
+            xmax = 80.800000
+            text = "u"
+        intervals [733]:
+            xmin = 80.800000
+            xmax = 80.880000
+            text = "n"
+        intervals [734]:
+            xmin = 80.880000
+            xmax = 80.940000
+            text = "ɯ"
+        intervals [735]:
+            xmin = 80.940000
+            xmax = 81.050000
+            text = "ɡ"
+        intervals [736]:
+            xmin = 81.050000
+            xmax = 81.200000
+            text = "r"
+        intervals [737]:
+            xmin = 81.200000
+            xmax = 81.240000
+            text = "ɤ"
+        intervals [738]:
+            xmin = 81.240000
+            xmax = 81.370000
+            text = "l"
+        intervals [739]:
+            xmin = 81.370000
+            xmax = 81.490000
+            text = "ŋ"
+        intervals [740]:
+            xmin = 81.490000
+            xmax = 81.580000
+            text = "u"
+        intervals [741]:
+            xmin = 81.580000
+            xmax = 82.290000
+            text = "(...)"
+        intervals [742]:
+            xmin = 82.290000
+            xmax = 82.350000
+            text = "s"
+        intervals [743]:
+            xmin = 82.350000
+            xmax = 82.400000
+            text = "t"
+        intervals [744]:
+            xmin = 82.400000
+            xmax = 82.450000
+            text = "a"
+        intervals [745]:
+            xmin = 82.450000
+            xmax = 82.480000
+            text = "χ"
+        intervals [746]:
+            xmin = 82.480000
+            xmax = 82.520000
+            text = "p"
+        intervals [747]:
+            xmin = 82.520000
+            xmax = 82.710000
+            text = "ɯ"
+        intervals [748]:
+            xmin = 82.710000
+            xmax = 82.780000
+            text = "r"
+        intervals [749]:
+            xmin = 82.780000
+            xmax = 82.860000
+            text = "ɟ"
+        intervals [750]:
+            xmin = 82.860000
+            xmax = 82.970000
+            text = "ɤ"
+        intervals [751]:
+            xmin = 82.970000
+            xmax = 83.020000
+            text = "s"
+        intervals [752]:
+            xmin = 83.020000
+            xmax = 83.110000
+            text = "k"
+        intervals [753]:
+            xmin = 83.110000
+            xmax = 83.140000
+            text = "h"
+        intervals [754]:
+            xmin = 83.140000
+            xmax = 83.230000
+            text = "i"
+        intervals [755]:
+            xmin = 83.230000
+            xmax = 83.300000
+            text = "ɣ"
+        intervals [756]:
+            xmin = 83.300000
+            xmax = 83.330000
+            text = "ɯ"
+        intervals [757]:
+            xmin = 83.330000
+            xmax = 83.360000
+            text = "ɯ"
+        intervals [758]:
+            xmin = 83.360000
+            xmax = 83.520000
+            text = "j"
+        intervals [759]:
+            xmin = 83.520000
+            xmax = 83.610000
+            text = "w"
+        intervals [760]:
+            xmin = 83.610000
+            xmax = 83.780000
+            text = "a"
+        intervals [761]:
+            xmin = 83.780000
+            xmax = 83.810000
+            text = "ʀ"
+        intervals [762]:
+            xmin = 83.810000
+            xmax = 83.840000
+            text = "w"
+        intervals [763]:
+            xmin = 83.840000
+            xmax = 83.950000
+            text = "u"
+        intervals [764]:
+            xmin = 83.950000
+            xmax = 84.000000
+            text = "m"
+        intervals [765]:
+            xmin = 84.000000
+            xmax = 84.100000
+            text = "a"
+        intervals [766]:
+            xmin = 84.100000
+            xmax = 84.170000
+            text = "ʑ"
+        intervals [767]:
+            xmin = 84.170000
+            xmax = 84.290000
+            text = "o"
+        intervals [768]:
+            xmin = 84.290000
+            xmax = 84.340000
+            text = "(...)"
+        intervals [769]:
+            xmin = 84.340000
+            xmax = 84.370000
+            text = "f"
+        intervals [770]:
+            xmin = 84.370000
+            xmax = 84.410000
+            text = "s"
+        intervals [771]:
+            xmin = 84.410000
+            xmax = 84.560000
+            text = "e"
+        intervals [772]:
+            xmin = 84.560000
+            xmax = 85.430000
+            text = "(...)"
+        intervals [773]:
+            xmin = 85.430000
+            xmax = 85.560000
+            text = "m"
+        intervals [774]:
+            xmin = 85.560000
+            xmax = 85.700000
+            text = "a"
+        intervals [775]:
+            xmin = 85.700000
+            xmax = 85.730000
+            text = "n"
+        intervals [776]:
+            xmin = 85.730000
+            xmax = 85.850000
+            text = "ɯ"
+        intervals [777]:
+            xmin = 85.850000
+            xmax = 85.920000
+            text = "n"
+        intervals [778]:
+            xmin = 85.920000
+            xmax = 86.450000
+            text = "ɯ"
+        intervals [779]:
+            xmin = 86.450000
+            xmax = 86.480000
+            text = "t"
+        intervals [780]:
+            xmin = 86.480000
+            xmax = 86.570000
+            text = "ɕ"
+        intervals [781]:
+            xmin = 86.570000
+            xmax = 87.000000
+            text = "e"
+        intervals [782]:
+            xmin = 87.000000
+            xmax = 87.080000
+            text = "ɯ"
+        intervals [783]:
+            xmin = 87.080000
+            xmax = 87.190000
+            text = "m"
+        intervals [784]:
+            xmin = 87.190000
+            xmax = 87.220000
+            text = "d"
+        intervals [785]:
+            xmin = 87.220000
+            xmax = 87.310000
+            text = "z"
+        intervals [786]:
+            xmin = 87.310000
+            xmax = 87.410000
+            text = "u"
+        intervals [787]:
+            xmin = 87.410000
+            xmax = 87.480000
+            text = "n"
+        intervals [788]:
+            xmin = 87.480000
+            xmax = 87.560000
+            text = "ɯ"
+        intervals [789]:
+            xmin = 87.560000
+            xmax = 87.660000
+            text = "n"
+        intervals [790]:
+            xmin = 87.660000
+            xmax = 87.940000
+            text = "ɯ"
+        intervals [791]:
+            xmin = 87.940000
+            xmax = 87.990000
+            text = "ɯ"
+        intervals [792]:
+            xmin = 87.990000
+            xmax = 88.090000
+            text = "k"
+        intervals [793]:
+            xmin = 88.090000
+            xmax = 88.160000
+            text = "u"
+        intervals [794]:
+            xmin = 88.160000
+            xmax = 88.230000
+            text = "n"
+        intervals [795]:
+            xmin = 88.230000
+            xmax = 88.340000
+            text = "ɯ"
+        intervals [796]:
+            xmin = 88.340000
+            xmax = 88.430000
+            text = "t"
+        intervals [797]:
+            xmin = 88.430000
+            xmax = 88.490000
+            text = "ɤ"
+        intervals [798]:
+            xmin = 88.490000
+            xmax = 88.650000
+            text = "m"
+        intervals [799]:
+            xmin = 88.650000
+            xmax = 88.680000
+            text = "d"
+        intervals [800]:
+            xmin = 88.680000
+            xmax = 88.770000
+            text = "z"
+        intervals [801]:
+            xmin = 88.770000
+            xmax = 89.290000
+            text = "u"
+        intervals [802]:
+            xmin = 89.290000
+            xmax = 89.840000
+            text = "(...)"
+        intervals [803]:
+            xmin = 89.840000
+            xmax = 90.240000
+            text = "ŋ"
+        intervals [804]:
+            xmin = 90.240000
+            xmax = 90.290000
+            text = "u"
+        intervals [805]:
+            xmin = 90.290000
+            xmax = 90.660000
+            text = "ɯ"
+        intervals [806]:
+            xmin = 90.660000
+            xmax = 90.780000
+            text = "r"
+        intervals [807]:
+            xmin = 90.780000
+            xmax = 90.860000
+            text = "u"
+        intervals [808]:
+            xmin = 90.860000
+            xmax = 90.980000
+            text = "n"
+        intervals [809]:
+            xmin = 90.980000
+            xmax = 91.030000
+            text = "ɯ"
+        intervals [810]:
+            xmin = 91.030000
+            xmax = 91.120000
+            text = "n"
+        intervals [811]:
+            xmin = 91.120000
+            xmax = 91.200000
+            text = "ɯ"
+        intervals [812]:
+            xmin = 91.200000
+            xmax = 91.320000
+            text = "r"
+        intervals [813]:
+            xmin = 91.320000
+            xmax = 91.650000
+            text = "a"
+        intervals [814]:
+            xmin = 91.650000
+            xmax = 91.830000
+            text = "ɯ"
+        intervals [815]:
+            xmin = 91.830000
+            xmax = 91.980000
+            text = "j"
+        intervals [816]:
+            xmin = 91.980000
+            xmax = 92.080000
+            text = "w"
+        intervals [817]:
+            xmin = 92.080000
+            xmax = 92.150000
+            text = "a"
+        intervals [818]:
+            xmin = 92.150000
+            xmax = 92.180000
+            text = "ʀ"
+        intervals [819]:
+            xmin = 92.180000
+            xmax = 92.240000
+            text = "ɯ"
+        intervals [820]:
+            xmin = 92.240000
+            xmax = 92.310000
+            text = "s"
+        intervals [821]:
+            xmin = 92.310000
+            xmax = 92.450000
+            text = "ɤ"
+        intervals [822]:
+            xmin = 92.450000
+            xmax = 92.480000
+            text = "ɣ"
+        intervals [823]:
+            xmin = 92.480000
+            xmax = 92.520000
+            text = "n"
+        intervals [824]:
+            xmin = 92.520000
+            xmax = 92.550000
+            text = "d"
+        intervals [825]:
+            xmin = 92.550000
+            xmax = 92.590000
+            text = "z"
+        intervals [826]:
+            xmin = 92.590000
+            xmax = 92.770000
+            text = "o"
+        intervals [827]:
+            xmin = 92.770000
+            xmax = 92.800000
+            text = "ʀ"
+        intervals [828]:
+            xmin = 92.800000
+            xmax = 92.890000
+            text = "ŋ"
+        intervals [829]:
+            xmin = 92.890000
+            xmax = 93.020000
+            text = "u"
+        intervals [830]:
+            xmin = 93.020000
+            xmax = 93.920000
+            text = "(...)"
+        intervals [831]:
+            xmin = 93.920000
+            xmax = 93.950000
+            text = "t"
+        intervals [832]:
+            xmin = 93.950000
+            xmax = 94.030000
+            text = "ɕ"
+        intervals [833]:
+            xmin = 94.030000
+            xmax = 94.110000
+            text = "e"
+        intervals [834]:
+            xmin = 94.110000
+            xmax = 94.150000
+            text = "n"
+        intervals [835]:
+            xmin = 94.150000
+            xmax = 94.250000
+            text = "ɯ"
+        intervals [836]:
+            xmin = 94.250000
+            xmax = 94.310000
+            text = "n"
+        intervals [837]:
+            xmin = 94.310000
+            xmax = 94.400000
+            text = "ɯ"
+        intervals [838]:
+            xmin = 94.400000
+            xmax = 94.470000
+            text = "(...)"
+        intervals [839]:
+            xmin = 94.470000
+            xmax = 94.500000
+            text = "q"
+        intervals [840]:
+            xmin = 94.500000
+            xmax = 94.600000
+            text = "a"
+        intervals [841]:
+            xmin = 94.600000
+            xmax = 94.660000
+            text = "m"
+        intervals [842]:
+            xmin = 94.660000
+            xmax = 94.770000
+            text = "t"
+        intervals [843]:
+            xmin = 94.770000
+            xmax = 94.810000
+            text = "s"
+        intervals [844]:
+            xmin = 94.810000
+            xmax = 94.910000
+            text = "ɯ"
+        intervals [845]:
+            xmin = 94.910000
+            xmax = 94.950000
+            text = "r"
+        intervals [846]:
+            xmin = 94.950000
+            xmax = 95.030000
+            text = "m"
+        intervals [847]:
+            xmin = 95.030000
+            xmax = 95.060000
+            text = "d"
+        intervals [848]:
+            xmin = 95.060000
+            xmax = 95.160000
+            text = "z"
+        intervals [849]:
+            xmin = 95.160000
+            xmax = 95.240000
+            text = "u"
+        intervals [850]:
+            xmin = 95.240000
+            xmax = 95.350000
+            text = "r"
+        intervals [851]:
+            xmin = 95.350000
+            xmax = 95.450000
+            text = "m"
+        intervals [852]:
+            xmin = 95.450000
+            xmax = 95.600000
+            text = "i"
+        intervals [853]:
+            xmin = 95.600000
+            xmax = 96.140000
+            text = "(...)"
+        intervals [854]:
+            xmin = 96.140000
+            xmax = 96.170000
+            text = "t"
+        intervals [855]:
+            xmin = 96.170000
+            xmax = 96.250000
+            text = "ɕ"
+        intervals [856]:
+            xmin = 96.250000
+            xmax = 96.320000
+            text = "e"
+        intervals [857]:
+            xmin = 96.320000
+            xmax = 96.380000
+            text = "n"
+        intervals [858]:
+            xmin = 96.380000
+            xmax = 96.460000
+            text = "ɯ"
+        intervals [859]:
+            xmin = 96.460000
+            xmax = 96.490000
+            text = "ɣ"
+        intervals [860]:
+            xmin = 96.490000
+            xmax = 96.710000
+            text = "ɯ"
+        intervals [861]:
+            xmin = 96.710000
+            xmax = 96.770000
+            text = "ɯ"
+        intervals [862]:
+            xmin = 96.770000
+            xmax = 96.800000
+            text = "r"
+        intervals [863]:
+            xmin = 96.800000
+            xmax = 96.840000
+            text = "q"
+        intervals [864]:
+            xmin = 96.840000
+            xmax = 96.900000
+            text = "h"
+        intervals [865]:
+            xmin = 96.900000
+            xmax = 96.960000
+            text = "u"
+        intervals [866]:
+            xmin = 96.960000
+            xmax = 97.020000
+            text = "n"
+        intervals [867]:
+            xmin = 97.020000
+            xmax = 97.200000
+            text = "ɯ"
+        intervals [868]:
+            xmin = 97.200000
+            xmax = 97.240000
+            text = "c"
+        intervals [869]:
+            xmin = 97.240000
+            xmax = 97.310000
+            text = "h"
+        intervals [870]:
+            xmin = 97.310000
+            xmax = 97.380000
+            text = "ɯ"
+        intervals [871]:
+            xmin = 97.380000
+            xmax = 97.410000
+            text = "w"
+        intervals [872]:
+            xmin = 97.410000
+            xmax = 97.440000
+            text = "ɣ"
+        intervals [873]:
+            xmin = 97.440000
+            xmax = 97.540000
+            text = "q"
+        intervals [874]:
+            xmin = 97.540000
+            xmax = 97.670000
+            text = "a"
+        intervals [875]:
+            xmin = 97.670000
+            xmax = 97.700000
+            text = "ʀ"
+        intervals [876]:
+            xmin = 97.700000
+            xmax = 97.730000
+            text = "t"
+        intervals [877]:
+            xmin = 97.730000
+            xmax = 97.770000
+            text = "ɕ"
+        intervals [878]:
+            xmin = 97.770000
+            xmax = 97.970000
+            text = "e"
+        intervals [879]:
+            xmin = 97.970000
+            xmax = 98.280000
+            text = "(...)"
+        intervals [880]:
+            xmin = 98.280000
+            xmax = 98.350000
+            text = "t"
+        intervals [881]:
+            xmin = 98.350000
+            xmax = 98.440000
+            text = "a"
+        intervals [882]:
+            xmin = 98.440000
+            xmax = 98.540000
+            text = "s"
+        intervals [883]:
+            xmin = 98.540000
+            xmax = 98.670000
+            text = "a"
+        intervals [884]:
+            xmin = 98.670000
+            xmax = 98.700000
+            text = "t"
+        intervals [885]:
+            xmin = 98.700000
+            xmax = 98.820000
+            text = "h"
+        intervals [886]:
+            xmin = 98.820000
+            xmax = 98.850000
+            text = "ɯ"
+        intervals [887]:
+            xmin = 98.850000
+            xmax = 98.960000
+            text = "k"
+        intervals [888]:
+            xmin = 98.960000
+            xmax = 99.060000
+            text = "ɤ"
+        intervals [889]:
+            xmin = 99.060000
+            xmax = 99.180000
+            text = "q"
+        intervals [890]:
+            xmin = 99.180000
+            xmax = 99.300000
+            text = "a"
+        intervals [891]:
+            xmin = 99.300000
+            xmax = 99.330000
+            text = "ʀ"
+        intervals [892]:
+            xmin = 99.330000
+            xmax = 99.370000
+            text = "ʑ"
+        intervals [893]:
+            xmin = 99.370000
+            xmax = 99.494989
+            text = "o"
+        intervals [894]:
+            xmin = 99.494989
+            xmax = 99.529977
+            text = "f"
+        intervals [895]:
+            xmin = 99.529977
+            xmax = 99.560000
+            text = "s"
+        intervals [896]:
+            xmin = 99.560000
+            xmax = 99.670000
+            text = "e"
+        intervals [897]:
+            xmin = 99.670000
+            xmax = 99.710000
+            text = "t"
+        intervals [898]:
+            xmin = 99.710000
+            xmax = 99.750000
+            text = "ɕ"
+        intervals [899]:
+            xmin = 99.750000
+            xmax = 99.850000
+            text = "e"
+        intervals [900]:
+            xmin = 99.850000
+            xmax = 99.910000
+            text = "ɯ"
+        intervals [901]:
+            xmin = 99.910000
+            xmax = 99.940000
+            text = "r"
+        intervals [902]:
+            xmin = 99.940000
+            xmax = 100.070000
+            text = "q"
+        intervals [903]:
+            xmin = 100.070000
+            xmax = 100.140000
+            text = "h"
+        intervals [904]:
+            xmin = 100.140000
+            xmax = 100.220000
+            text = "u"
+        intervals [905]:
+            xmin = 100.220000
+            xmax = 100.310000
+            text = "n"
+        intervals [906]:
+            xmin = 100.310000
+            xmax = 100.390000
+            text = "ɯ"
+        intervals [907]:
+            xmin = 100.390000
+            xmax = 100.580000
+            text = "n"
+        intervals [908]:
+            xmin = 100.580000
+            xmax = 100.670000
+            text = "ɡ"
+        intervals [909]:
+            xmin = 100.670000
+            xmax = 100.760000
+            text = "ɯ"
+        intervals [910]:
+            xmin = 100.760000
+            xmax = 100.900000
+            text = "t"
+        intervals [911]:
+            xmin = 100.900000
+            xmax = 101.740000
+            text = "(...)"
+        intervals [912]:
+            xmin = 101.740000
+            xmax = 102.120000
+            text = "t"
+        intervals [913]:
+            xmin = 102.120000
+            xmax = 102.190000
+            text = "ɕ"
+        intervals [914]:
+            xmin = 102.190000
+            xmax = 102.280000
+            text = "e"
+        intervals [915]:
+            xmin = 102.280000
+            xmax = 102.330000
+            text = "t"
+        intervals [916]:
+            xmin = 102.330000
+            xmax = 102.360000
+            text = "s"
+        intervals [917]:
+            xmin = 102.360000
+            xmax = 102.400000
+            text = "h"
+        intervals [918]:
+            xmin = 102.400000
+            xmax = 102.450000
+            text = "i"
+        intervals [919]:
+            xmin = 102.450000
+            xmax = 102.480000
+            text = "t"
+        intervals [920]:
+            xmin = 102.480000
+            xmax = 102.530000
+            text = "s"
+        intervals [921]:
+            xmin = 102.530000
+            xmax = 102.570000
+            text = "u"
+        intervals [922]:
+            xmin = 102.570000
+            xmax = 102.650000
+            text = "k"
+        intervals [923]:
+            xmin = 102.650000
+            xmax = 102.690000
+            text = "u"
+        intervals [924]:
+            xmin = 102.690000
+            xmax = 102.770000
+            text = "ɯ"
+        intervals [925]:
+            xmin = 102.770000
+            xmax = 102.860000
+            text = "s"
+        intervals [926]:
+            xmin = 102.860000
+            xmax = 102.970000
+            text = "ɤ"
+        intervals [927]:
+            xmin = 102.970000
+            xmax = 103.040000
+            text = "x"
+        intervals [928]:
+            xmin = 103.040000
+            xmax = 103.070000
+            text = "t"
+        intervals [929]:
+            xmin = 103.070000
+            xmax = 103.180000
+            text = "ɕ"
+        intervals [930]:
+            xmin = 103.180000
+            xmax = 103.260000
+            text = "ɤ"
+        intervals [931]:
+            xmin = 103.260000
+            xmax = 103.350000
+            text = "r"
+        intervals [932]:
+            xmin = 103.350000
+            xmax = 103.410000
+            text = "r"
+        intervals [933]:
+            xmin = 103.410000
+            xmax = 103.440000
+            text = "a"
+        intervals [934]:
+            xmin = 103.440000
+            xmax = 103.520000
+            text = "t"
+        intervals [935]:
+            xmin = 103.520000
+            xmax = 103.570000
+            text = "u"
+        intervals [936]:
+            xmin = 103.570000
+            xmax = 103.620000
+            text = "s"
+        intervals [937]:
+            xmin = 103.620000
+            xmax = 103.710000
+            text = "ɯ"
+        intervals [938]:
+            xmin = 103.710000
+            xmax = 103.870000
+            text = "p"
+        intervals [939]:
+            xmin = 103.870000
+            xmax = 103.980000
+            text = "a"
+        intervals [940]:
+            xmin = 103.980000
+            xmax = 104.050000
+            text = "n"
+        intervals [941]:
+            xmin = 104.050000
+            xmax = 104.080000
+            text = "ɯ"
+        intervals [942]:
+            xmin = 104.080000
+            xmax = 104.150000
+            text = "ŋ"
+        intervals [943]:
+            xmin = 104.150000
+            xmax = 104.180000
+            text = "ɡ"
+        intervals [944]:
+            xmin = 104.180000
+            xmax = 104.270000
+            text = "r"
+        intervals [945]:
+            xmin = 104.270000
+            xmax = 104.330000
+            text = "ɤ"
+        intervals [946]:
+            xmin = 104.330000
+            xmax = 104.440000
+            text = "l"
+        intervals [947]:
+            xmin = 104.440000
+            xmax = 105.170000
+            text = "(...)"
+        intervals [948]:
+            xmin = 105.170000
+            xmax = 105.480000
+            text = "t"
+        intervals [949]:
+            xmin = 105.480000
+            xmax = 105.580000
+            text = "ɕ"
+        intervals [950]:
+            xmin = 105.580000
+            xmax = 105.660000
+            text = "e"
+        intervals [951]:
+            xmin = 105.660000
+            xmax = 105.730000
+            text = "n"
+        intervals [952]:
+            xmin = 105.730000
+            xmax = 105.810000
+            text = "ɯ"
+        intervals [953]:
+            xmin = 105.810000
+            xmax = 105.880000
+            text = "n"
+        intervals [954]:
+            xmin = 105.880000
+            xmax = 105.960000
+            text = "ɯ"
+        intervals [955]:
+            xmin = 105.960000
+            xmax = 106.060000
+            text = "q"
+        intervals [956]:
+            xmin = 106.060000
+            xmax = 106.150000
+            text = "a"
+        intervals [957]:
+            xmin = 106.150000
+            xmax = 106.200000
+            text = "m"
+        intervals [958]:
+            xmin = 106.200000
+            xmax = 106.290000
+            text = "t"
+        intervals [959]:
+            xmin = 106.290000
+            xmax = 106.320000
+            text = "s"
+        intervals [960]:
+            xmin = 106.320000
+            xmax = 106.420000
+            text = "ɯ"
+        intervals [961]:
+            xmin = 106.420000
+            xmax = 106.480000
+            text = "r"
+        intervals [962]:
+            xmin = 106.480000
+            xmax = 106.560000
+            text = "m"
+        intervals [963]:
+            xmin = 106.560000
+            xmax = 106.590000
+            text = "d"
+        intervals [964]:
+            xmin = 106.590000
+            xmax = 106.690000
+            text = "z"
+        intervals [965]:
+            xmin = 106.690000
+            xmax = 107.010000
+            text = "u"
+        intervals [966]:
+            xmin = 107.010000
+            xmax = 107.570000
+            text = "(...)"
+        intervals [967]:
+            xmin = 107.570000
+            xmax = 107.620000
+            text = "ŋ"
+        intervals [968]:
+            xmin = 107.620000
+            xmax = 107.660000
+            text = "u"
+        intervals [969]:
+            xmin = 107.660000
+            xmax = 109.710000
+            text = "(...)"
+        intervals [970]:
+            xmin = 109.710000
+            xmax = 109.800000
+            text = "t"
+        intervals [971]:
+            xmin = 109.800000
+            xmax = 109.930000
+            text = "s"
+        intervals [972]:
+            xmin = 109.930000
+            xmax = 110.020000
+            text = "h"
+        intervals [973]:
+            xmin = 110.020000
+            xmax = 110.150000
+            text = "ɤ"
+        intervals [974]:
+            xmin = 110.150000
+            xmax = 110.330000
+            text = "m"
+        intervals [975]:
+            xmin = 110.330000
+            xmax = 110.470000
+            text = "d"
+        intervals [976]:
+            xmin = 110.470000
+            xmax = 110.620000
+            text = "z"
+        intervals [977]:
+            xmin = 110.620000
+            xmax = 110.760000
+            text = "u"
+        intervals [978]:
+            xmin = 110.760000
+            xmax = 111.890000
+            text = "(...)"
+        intervals [979]:
+            xmin = 111.890000
+            xmax = 111.990000
+            text = "ɯ"
+        intervals [980]:
+            xmin = 111.990000
+            xmax = 112.250000
+            text = "p"
+        intervals [981]:
+            xmin = 112.250000
+            xmax = 112.410000
+            text = "ɯ"
+        intervals [982]:
+            xmin = 112.410000
+            xmax = 112.440000
+            text = "f"
+        intervals [983]:
+            xmin = 112.440000
+            xmax = 112.480000
+            text = "ɕ"
+        intervals [984]:
+            xmin = 112.480000
+            xmax = 112.540000
+            text = "a"
+        intervals [985]:
+            xmin = 112.540000
+            xmax = 112.990000
+            text = "t"
+        intervals [986]:
+            xmin = 112.990000
+            xmax = 113.030000
+            text = "a"
+        intervals [987]:
+            xmin = 113.030000
+            xmax = 113.860000
+            text = "(...)"
+        intervals [988]:
+            xmin = 113.860000
+            xmax = 113.920000
+            text = "p"
+        intervals [989]:
+            xmin = 113.920000
+            xmax = 113.980000
+            text = "ɯ"
+        intervals [990]:
+            xmin = 113.980000
+            xmax = 114.100000
+            text = "f"
+        intervals [991]:
+            xmin = 114.100000
+            xmax = 114.160000
+            text = "ɕ"
+        intervals [992]:
+            xmin = 114.160000
+            xmax = 114.330000
+            text = "a"
+        intervals [993]:
+            xmin = 114.330000
+            xmax = 114.380000
+            text = "t"
+        intervals [994]:
+            xmin = 114.380000
+            xmax = 114.450000
+            text = "a"
+        intervals [995]:
+            xmin = 114.450000
+            xmax = 114.500000
+            text = "l"
+        intervals [996]:
+            xmin = 114.500000
+            xmax = 114.560000
+            text = "o"
+        intervals [997]:
+            xmin = 114.560000
+            xmax = 114.590000
+            text = "w"
+        intervals [998]:
+            xmin = 114.590000
+            xmax = 114.960000
+            text = "(...)"
+        intervals [999]:
+            xmin = 114.960000
+            xmax = 115.290000
+            text = "ɯ"
+        intervals [1000]:
+            xmin = 115.290000
+            xmax = 115.350000
+            text = "q"
+        intervals [1001]:
+            xmin = 115.350000
+            xmax = 115.510000
+            text = "a"
+        intervals [1002]:
+            xmin = 115.510000
+            xmax = 115.560000
+            text = "n"
+        intervals [1003]:
+            xmin = 115.560000
+            xmax = 115.630000
+            text = "ɯ"
+        intervals [1004]:
+            xmin = 115.630000
+            xmax = 115.740000
+            text = "k"
+        intervals [1005]:
+            xmin = 115.740000
+            xmax = 115.770000
+            text = "ɯ"
+        intervals [1006]:
+            xmin = 115.770000
+            xmax = 115.880000
+            text = "q"
+        intervals [1007]:
+            xmin = 115.880000
+            xmax = 116.080000
+            text = "a"
+        intervals [1008]:
+            xmin = 116.080000
+            xmax = 116.150000
+            text = "r"
+        intervals [1009]:
+            xmin = 116.150000
+            xmax = 116.480000
+            text = "ŋ"
+        intervals [1010]:
+            xmin = 116.480000
+            xmax = 116.690000
+            text = "e"
+        intervals [1011]:
+            xmin = 116.690000
+            xmax = 117.180000
+            text = "(...)"
+        intervals [1012]:
+            xmin = 117.180000
+            xmax = 117.260000
+            text = "ŋ"
+        intervals [1013]:
+            xmin = 117.260000
+            xmax = 117.300000
+            text = "u"
+        intervals [1014]:
+            xmin = 117.300000
+            xmax = 117.350000
+            text = "t"
+        intervals [1015]:
+            xmin = 117.350000
+            xmax = 117.390000
+            text = "ɕ"
+        intervals [1016]:
+            xmin = 117.390000
+            xmax = 117.720000
+            text = "e"
+        intervals [1017]:
+            xmin = 117.720000
+            xmax = 117.840000
+            text = "(...)"
+        intervals [1018]:
+            xmin = 117.840000
+            xmax = 117.920000
+            text = "t"
+        intervals [1019]:
+            xmin = 117.920000
+            xmax = 117.950000
+            text = "s"
+        intervals [1020]:
+            xmin = 117.950000
+            xmax = 118.260000
+            text = "h"
+        intervals [1021]:
+            xmin = 118.260000
+            xmax = 118.320000
+            text = "w"
+        intervals [1022]:
+            xmin = 118.320000
+            xmax = 118.360000
+            text = "i"
+        intervals [1023]:
+            xmin = 118.360000
+            xmax = 119.450000
+            text = "(...)"
+        intervals [1024]:
+            xmin = 119.450000
+            xmax = 120.160000
+            text = "p"
+        intervals [1025]:
+            xmin = 120.160000
+            xmax = 120.200000
+            text = "j"
+        intervals [1026]:
+            xmin = 120.200000
+            xmax = 120.230000
+            text = "ɯ"
+        intervals [1027]:
+            xmin = 120.230000
+            xmax = 120.260000
+            text = "w"
+        intervals [1028]:
+            xmin = 120.260000
+            xmax = 120.290000
+            text = "ɣ"
+        intervals [1029]:
+            xmin = 120.290000
+            xmax = 120.330000
+            text = "l"
+        intervals [1030]:
+            xmin = 120.330000
+            xmax = 120.380000
+            text = "ɤ"
+        intervals [1031]:
+            xmin = 120.380000
+            xmax = 120.440000
+            text = "t"
+        intervals [1032]:
+            xmin = 120.440000
+            xmax = 121.340000
+            text = "(...)"
+        intervals [1033]:
+            xmin = 121.340000
+            xmax = 121.370000
+            text = "s"
+        intervals [1034]:
+            xmin = 121.370000
+            xmax = 121.400000
+            text = "n"
+        intervals [1035]:
+            xmin = 121.400000
+            xmax = 121.430000
+            text = "a"
+        intervals [1036]:
+            xmin = 121.430000
+            xmax = 123.271837
+            text = "(...)"
