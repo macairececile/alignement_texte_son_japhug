@@ -106,7 +106,7 @@ On extrait les informations du TextGrid avec `def extract_info_textGrid(textgrid
 		<AUDIO start="0.65" end="3.3"/>
 		<FORM kindOf="phono">﻿tɕe jla ra nɯ tɕe, nɯ-rmi li dɤn ma</FORM>
 	</S>
-	<NOTE message="=================" xmlns:lang="fr"/>
+	<NOTE message="=================" xml:lang="fr"/>
 	<S id="S002">
 		<AUDIO start="3.8" end="6.78"/>
 		<FORM kindOf="phono">jla kɯ-ɤskɯ kɯ-fse nɯ chaŋskɯ tu-kɯ-ti ŋgrɤl. </FORM>
