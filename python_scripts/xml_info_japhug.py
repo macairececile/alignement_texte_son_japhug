@@ -15,31 +15,27 @@ import hanzidentifier
 import subprocess
 import urllib.request
 
-items_to_delete = ['!)', '"', '"/???/', '(', '(!!!', '(...)', '(?)', '(??)', '(???)', '(agreement', '(anticausative)',
-                   '(antipassif)', '(associated', '(au', '(autoben)', '(autoben+anticaus)', '(autobenefactive)',
-                   '(benefactif)', '(calque', '(calque)', '(calque?)', '(cataphoric)', '(causatif)', '(causation)',
-                   '(causative)', '(causative,', '(cleft)', '(comme)', '(complementation', '(complementation)',
-                   '(conatif)',
-                   '(conative)', '(converb)', '(dative)', '(diminutive)', '(en', '(erreur', '(faute)6:40', '(faux:',
-                   '(floating)', '(focalisation,', '(focus)', '(generic)', '(hybrid?)', '(ideoph', '(ideoph)',
-                   '(ideoph.pause).', '(il', '(ils', '(imp?', '(imperative', '(in', '(indefinite)', '(infinitive)',
-                   '(intensif', '(inverse', '(inverse', '(inverse', '(inverse)', '(inverse+associated', '(inverse?',
-                   '(nominal', '(pas', '(passive)', '(permansive)', '(pluriel)', '(possessive)', '(redp)',
-                   '(reduplication',
-                   '(relation', '(relative)', '(revoir)', '(right', '(superlative)', '(trill)', ')', '*', ',', '-',
-                   '..',
-                   '...', '...,', '....', '/', '/.../', '//', '//?//', '/?/', '/???/', '050)', '0805)', '1015)', '200)',
-                   '2:00', '?', '?"', '??', '??', '???', '???,', '????', 'X', '\\b', 'adjectives)', 'causee)', 'ce',
-                   'dans', '(050'
-                           'de', 'de', 'deux', 'deux', 'deux', 'disloc)', 'emph)', 'entre', 'et', 'fact?', 'fur',
-                   'hybrid)',
-                   'inanimés).', 'inanimés).', 'inverse)', "l'original,", 'la', 'lui', 'main)', 'mange',
-                   'manner)(testimonial)', 'mesure)', 'mismatch)', 'modifiers,', 'motion)', 'motion,', "n'avaient",
-                   'particulier)', 'parties', 'passif', 'preventive)', 'quasi-clivée)', 'qui', 'redp)', 'relative,',
-                   'rien', 'permansif?)'
-                           'sous', 'strategy)', 'that)', 'tombe', 'tout', 'traduction', 'à', 'ǀǀǀǀǀǀ', '(IMM)',
-                   'khWjNga2',
-                   '(faute)', 'ǀǀǀǀǀǀ\"', '(demonstrative,', 'pronouns,', 'present)', '(kɯ?', '730)', 'possessor)']
+irrelevant_annotations = ['!)', '"', '"/???/', '(', '(!!!', '(...)', '(?)', '(??)', '(???)', '(agreement',
+                          '(anticausative)', '(antipassif)', '(associated', '(au', '(autoben)', '(autoben+anticaus)',
+                          '(autobenefactive)', '(benefactif)', '(calque', '(calque)', '(calque?)', '(cataphoric)',
+                          '(causatif)', '(causation)', '(causative)', '(causative,', '(cleft)', '(comme)',
+                          '(complementation', '(complementation)', '(conatif)', '(conative)', '(converb)', '(dative)',
+                          '(diminutive)', '(en', '(erreur', '(faute)6:40', '(faux:', '(floating)', '(focalisation,',
+                          '(focus)', '(generic)', '(hybrid?)', '(ideoph', '(ideoph)', '(ideoph.pause).', '(il', '(ils',
+                          '(imp?', '(imperative', '(in', '(indefinite)', '(infinitive)', '(intensif', '(inverse',
+                          '(inverse', '(inverse', '(inverse)', '(inverse+associated', '(inverse?', '(nominal', '(pas',
+                          '(passive)', '(permansive)', '(pluriel)', '(possessive)', '(redp)', '(reduplication',
+                          '(relation', '(relative)', '(revoir)', '(right', '(superlative)', '(trill)', ')', '*', ',',
+                          '-', '..', '...', '...,', '....', '/', '/.../', '//', '//?//', '/?/', '/???/', '050)',
+                          '0805)', '1015)', '200)', '2:00', '?', '?"', '??', '??', '???', '???,', '????', 'X', '\\b',
+                          'adjectives)', 'causee)', 'ce', 'dans', '(050', 'de', 'de', 'deux', 'deux', 'deux', 'disloc)',
+                          'emph)', 'entre', 'et', 'fact?', 'fur', 'hybrid)', 'inanimés).', 'inanimés).', 'inverse)',
+                          "l'original,", 'la', 'lui', 'main)', 'mange', 'manner)(testimonial)', 'mesure)', 'mismatch)',
+                          'modifiers,', 'motion)', 'motion,', 'n\'avaient', 'particulier)', 'parties', 'passif',
+                          'preventive)', 'quasi-clivée)', 'qui', 'redp)', 'relative,', 'rien', 'permansif?)', 'sous',
+                          'strategy)', 'that)', 'tombe', 'tout', 'traduction', 'à', 'ǀǀǀǀǀǀ', '(IMM)', 'khWjNga2',
+                          '(faute)', 'ǀǀǀǀǀǀ\"', '(demonstrative,', 'pronouns,', 'present)', '(kɯ?', '730)',
+                          'possessor)']
 
 
 # ------------------------------------- #
@@ -105,47 +101,18 @@ def create_par(text, file, frame_rate):
             words_tr2[k] = words_tr2[k].replace(digits[k][0], '')  # and delete them 
     words_tr2 = [words_tr2[i].split() for i, j in enumerate(words_tr2)]  # split sentences into words
     words_tr2 = [[i for i in nested if (
-            i not in items_to_delete and not hanzidentifier.has_chinese(
+            i not in irrelevant_annotations and not hanzidentifier.has_chinese(
         i) and 'xxxx' not in i and '---' not in i and '\\c' not in i and 'FICHIER' not in i and '=' not in i)] for
                  nested in
                  words_tr2]  # delete characters for MAUS
     words_tr2 = list(filter(None, words_tr2))  # remove blank lines
     words = [x for z in words_tr2 for x in z if x]  # extract all the words from sublist
-    words = [w.replace('-', '') for w in words]  # delete dashes
-    words = [w.replace('g', 'ɡ') for w in words]  # replace g
-    words = [w.replace('ʁ', 'ʀ') for w in words]  # replace ʁ
-    words = [w.replace('ɯ́', 'ɯ') for w in words]  # replace ɯ
-    words = [w.replace('ɤ́', 'ɤ') for w in words]
-    words = [w.replace('ó', 'o') for w in words]
-    words = [w.replace('ú', 'u') for w in words]
-    words = [w.replace('ɢ', 'ɣ') for w in words]
-    words = [w.replace('2', 'ø') for w in words]
-    words = [w.replace('4', 'ɾ') for w in words]
-    words = [w.replace('M', 'ɯ') for w in words]
-    words = [w.replace('T', 't') for w in words]
-    words = [w.replace('ü', 'y') for w in words]
-    words = [w.replace('û', 'u') for w in words]
-    words = [w.replace('é', 'e') for w in words]
-    words = [w.replace('B', 'b') for w in words]
-    words = [w.replace('à', 'a') for w in words]
-    words = [w.replace('á', 'a') for w in words]
-    words = [w.replace('，', '') for w in words]
-    words = [w.replace('A', 'a') for w in words]
-    words = [w.replace('U', 'u') for w in words]
-    words = [w.replace('h́', 'h') for w in words]
-    words = [w.replace('@', '') for w in words]
-    words = [w.replace('（', '(') for w in words]
-    words = [w.replace('）', ')') for w in words]
-    words = [w.replace('6', 'ɐ') for w in words]
-    words = [w.replace('9', 'œ') for w in words]
-    words = [w.replace('7', 'ɤ') for w in words]
-    words = [w.replace('0', '') for w in words]
-    words = [w.replace('Z', 'z') for w in words]
-    words = [w.replace('ù́', 'u') for w in words]
-    words = [w.replace('í', 'i') for w in words]
-    words = [w.replace('1', 'ɨ') for w in words]
-    words = [w.replace('4', '') for w in words]
-    words = [w.replace('3', '') for w in words]
+    replace_characters = {'-': '', 'g': 'ɡ', 'ʁ': 'ʀ', 'ɯ́': 'ɯ', 'ɤ́': 'ɤ', 'ó': 'o', 'ú': 'u', 'ɢ': 'ɣ', '2': 'ø',
+                          '4': 'ɾ', 'M': 'ɯ', 'T': 't', 'ü': 'y', 'û': 'u', 'é': 'e', 'B': 'b', 'à': 'a', 'á': 'a',
+                          '，': '', 'A': 'a', 'U': 'u', 'h́': 'h', '@': '', '（': '(', '）': ')', '6': 'ɐ', '9': 'œ',
+                          '7': 'ɤ', '0': '', 'Z': 'z', 'ù́': 'u', 'í': 'i', '1': 'ɨ', '3': ''}
+    for k, v in replace_characters.items():
+        words = [w.replace(k, v) for w in words]
     words = [w.translate(str.maketrans('', '', s.punctuation)) for w in words]  # delete punctuation
     phonemes = [i for i in words]  # separate each 'letter' of each word
     if len(words) != 0:
@@ -194,7 +161,7 @@ def extract_info_textGrid(textgrid):
     grid = tg.TextGrid(textgrid)  # extract TextGrid
     time = []
     compt = 0
-    for item in grid['TR2-MAU']: # extract timecodes
+    for item in grid['TR2-MAU']:  # extract timecodes
         if item.text != "" and '\\n' in item.text and len(time) == 0:
             time.append(item.xmin)
             time.append(item.xmax)
@@ -335,19 +302,19 @@ def run_Maus(path_wav, path_par, path_save, wav_file, par_file):
     """Run maus with command line and download the textGrid file in the corresponding folder"""
     command = 'curl -v -X POST -H \'content-type: multipart/form-data\' -F SIGNAL=@' \
               + path_wav + wav_file + ' -F LANGUAGE=sampa -F INSKANTEXTGRID=false -F ' \
-              'MODUS=align -F RELAXMINDUR=false -F OUTFORMAT=TextGrid -F ' \
-              'TARGETRATE=100000 -F ENDWORD=999999 -F STARTWORD=0 -F INSYMBOL=ipa -F ' \
-              'PRESEG=false -F USETRN=false -F BPF=@' + path_par + par_file + \
+                                      'MODUS=align -F RELAXMINDUR=false -F OUTFORMAT=TextGrid -F ' \
+                                      'TARGETRATE=100000 -F ENDWORD=999999 -F STARTWORD=0 -F INSYMBOL=ipa -F ' \
+                                      'PRESEG=false -F USETRN=false -F BPF=@' + path_par + par_file + \
               ' -F MAUSSHIFT=10 -F INSPROB=0.0 -F INSORTTEXTGRID=false -F MINPAUSLEN=5 -F ' \
               'OUTSYMBOL=ipa -F WEIGHT=default -F NOINITIALFINALSILENCE=false -F ' \
               'ADDSEGPROB=false ' \
               '\'https://clarin.phonetik.uni-muenchen.de/BASWebServices/services/runMAUS\''
     result = subprocess.check_output(command, shell=True)  # run the MAUS command
     # retrieve the dowload link textGrid file
-    url = (''.join(str(result).split('<downloadLink>')[1])).split('</downloadLink>')[0]  
+    url = (''.join(str(result).split('<downloadLink>')[1])).split('</downloadLink>')[0]
     name_file = str(url.split('/')[-1])
     urllib.request.urlretrieve(url, path_save + name_file)  # save textGrid file into specific folder
- 
+
 
 def process():
     """Main process -> run the steps to add information in xml file from textGrid"""
