@@ -1,4 +1,4 @@
-# Stage_LACITO
+# Alignement Texte-Son de documents de langue Japhug
 
 Ce répertoire comprend l'ensemble des données et les scripts réalisés tout au long de mon stage au LACITO-CNRS. 
 
