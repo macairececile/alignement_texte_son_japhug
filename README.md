@@ -5,12 +5,13 @@ Ce répertoire comprend l'ensemble des données et les scripts réalisés tout a
 - **Dictionnaire** : comprend le dictionnaire + lexicon de la langue japhug.
 - **Japhug** : données de la langue japhug séparées en deux dossiers : online et not online. Chaque dossier comprend les enregistrements .wav et leur transcription .xml.
 - **python_scripts** : scripts python
-- **correct_alignment_japhug** : dossier avec les données dont l'alignement entre audio et transcription est correct.
+- **correct_alignment** : dossier avec les données dont l'alignement entre audio et transcription est correct.
+- **not_correct_alignment** : dossier avec les données dont l'alignement entre audio et transcription est incorrect.
 
 
 ## Python_script : xml_info_japhug.py
 
-Ce script permet l'ajout de balises temporelles dans le xml pour chaque ligne de transcription en IPA de la langue japhug. WebMaus va être utilisée pour générer un alignement temporel forcé entre transcription et audio. A noter que l'alignement produit est correct pour les audios de moins de 4 minutes.
+Ce script permet l'ajout de balises temporelles dans le xml pour chaque ligne de transcription en IPA du corpus de langue japhug. WebMaus va être utilisée pour générer un alignement temporel forcé entre transcription et audio.
 
 
 ### Prérequis
@@ -40,7 +41,7 @@ Le script nécessite la création de 6 dossiers:
 **xml/** - fichiers .xml (transcriptions)
 
 
-**xml_new/** - fichiers .xml (transcriptions avec timecodes)
+**xml_with_timecodes/** - fichiers .xml (transcriptions avec timecodes)
 
 
 **par/** - fichiers .par générés pour MAUS
@@ -75,7 +76,7 @@ L'ensemble des opérations sont regroupées dans `def process()`.
 
 La fonction `def process_xml(path_wav, path_xml, path_par, wav_file, xml_file)` récupère la fréquence d'échantillonage de l'audio, son nom (fichiers .wav et .par doivent avoir le même nom), extrait la transcription du xml avec `def extract_information(xml_file)` et crée le .par avec `def create_par(text, file, frame_rate)`. 
 
-La variable _items_to_delete_ regroupe l'ensemble des annotations qui ne correspondent pas à la transcription en IPA du japhug (commentaires, notes, etc.).
+La variable _irrelevant__transcriptions_ regroupe l'ensemble des annotations qui ne correspondent pas à la transcription en IPA du japhug (commentaires, notes, etc.).
 
 
 3. Lancement de WebMAUS General par requête HTTP et récupération du fichier de sortie TextGrid comprenant l'alignement de la transcription avec l'audio.
@@ -90,9 +91,9 @@ Le fichier .TextGrid généré est ensuite téléchargé et stocké dans le doss
 
 4. Ajout des informations dans les fichiers .xml  (timecodes pour chaque ligne, balise Note) avec la fonction `def update_xml(path, path2, textGrid_file, wav_file, xml_file)`. 
 
-On extrait les informations du TextGrid avec `def extract_info_textGrid(textgrid)`. Le dictionnaire en sortie regroupe pour chaque _id_ de ligne les informations temporelles de début et fin. 
+On extrait les informations du TextGrid avec `def extract_info_textGrid(textgrid)`. Le dictionnaire en sortie regroupe pour chaque _id_ de phrases les informations temporelles de début et fin. 
 
-`def add_xml_info(timecode, wav_file, xml_file)` ajoute les informations dans le xml. Un exemple de fichier xml, dans le dossier **xml_new** :
+`def add_xml_info(timecode, wav_file, xml_file)` ajoute les informations dans le xml. Un exemple de fichier xml, dans le dossier **xml_with_timecodes** :
 ```xml
 <?xml version="1.0" ?>
 <!DOCTYPE TEXT SYSTEM "https://cocoon.huma-num.fr/schemas/Archive.dtd">
